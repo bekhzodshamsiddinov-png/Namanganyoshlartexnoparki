@@ -3,9 +3,9 @@ import { Building2, GraduationCap, Store, Users } from 'lucide-react';
 import { SlideProps } from '../types';
 import { CountUp, Eyebrow, Title } from '../ui';
 
-const FUNNEL = ['#22D3EE', '#A78BFA', '#F472B6', '#34D399', '#F5B841', '#FB923C'];
+const FUNNEL = ['#0E7490', '#6D28D9', '#BE185D', '#047857', '#B7791F', '#C2410C'];
 const TILE_ICONS = [Building2, Users, GraduationCap, Store];
-const TILE_COLORS = ['#34D399', '#A78BFA', '#22D3EE', '#FB923C'];
+const TILE_COLORS = ['#047857', '#6D28D9', '#0E7490', '#C2410C'];
 
 export function Final({ t, active }: SlideProps) {
   const u = t.ui;
@@ -16,7 +16,7 @@ export function Final({ t, active }: SlideProps) {
           <Eyebrow>{u.finalEyebrow}</Eyebrow>
           <Title a={u.finalTitleA} b={u.finalTitleB} />
         </div>
-        <p className="max-w-[520px] text-[14px] leading-relaxed text-slate-400">{u.finalLead}</p>
+        <p className="max-w-[520px] text-[14px] leading-relaxed text-slate-500">{u.finalLead}</p>
       </div>
 
       <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:flex lg:gap-0">
@@ -35,7 +35,7 @@ export function Final({ t, active }: SlideProps) {
               <div className="font-display text-[34px] font-bold leading-none xl:text-[42px]" style={{ color: c }}>
                 <CountUp value={v} active={active} />
               </div>
-              <div className="mt-2 max-w-[150px] text-[12.5px] leading-snug text-slate-200">{l}</div>
+              <div className="mt-2 max-w-[150px] text-[12.5px] leading-snug text-slate-800">{l}</div>
             </div>
           );
         })}
@@ -53,7 +53,7 @@ export function Final({ t, active }: SlideProps) {
                 <div className="font-display text-[26px] font-bold leading-none" style={{ color: TILE_COLORS[i] }}>
                   <CountUp value={v} active={active} />
                 </div>
-                <div className="mt-1 text-[12.5px] text-slate-400">{l}</div>
+                <div className="mt-1 text-[12.5px] text-slate-500">{l}</div>
               </div>
             </div>
           );
@@ -62,14 +62,14 @@ export function Final({ t, active }: SlideProps) {
 
       <div className="grid grid-cols-1 gap-3 md:grid-cols-3">
         {u.phases.map(([when, name, text], i) => (
-          <div key={i} className="relative overflow-hidden rounded-2xl border border-white/[.08] bg-white/[.02] p-5 fade-in" style={{ animationDelay: `${700 + i * 80}ms` }}>
-            <div className="absolute inset-x-0 top-0 h-[2px]" style={{ background: `linear-gradient(90deg, ${['#22D3EE', '#A78BFA', '#F5B841'][i]}, transparent)` }} />
+          <div key={i} className="relative overflow-hidden rounded-2xl border border-slate-200 bg-white/70 p-5 fade-in" style={{ animationDelay: `${700 + i * 80}ms` }}>
+            <div className="absolute inset-x-0 top-0 h-[2px]" style={{ background: `linear-gradient(90deg, ${['#0E7490', '#6D28D9', '#B7791F'][i]}, transparent)` }} />
             <div className="flex items-center justify-between">
-              <span className="eyebrow" style={{ color: ['#22D3EE', '#A78BFA', '#F5B841'][i] }}>{when}</span>
-              <span className="font-display text-[12px] text-slate-500">0{i + 1}</span>
+              <span className="eyebrow" style={{ color: ['#0E7490', '#6D28D9', '#B7791F'][i] }}>{when}</span>
+              <span className="font-display text-[12px] text-slate-400">0{i + 1}</span>
             </div>
-            <div className="mt-2 font-display text-[18px] font-semibold text-white">{name}</div>
-            <div className="mt-1.5 text-[13px] leading-relaxed text-slate-400">{text}</div>
+            <div className="mt-2 font-display text-[18px] font-semibold text-slate-900">{name}</div>
+            <div className="mt-1.5 text-[13px] leading-relaxed text-slate-500">{text}</div>
           </div>
         ))}
       </div>
@@ -78,8 +78,8 @@ export function Final({ t, active }: SlideProps) {
         <div className="flex items-center gap-3">
           <img src="/logo.svg" alt="" className="h-11 w-11" />
           <div>
-            <div className="text-[14px] font-bold text-white">{u.footerOrg}</div>
-            <div className="text-[12px] text-slate-400">{u.footerSub}</div>
+            <div className="text-[14px] font-bold text-slate-900">{u.footerOrg}</div>
+            <div className="text-[12px] text-slate-500">{u.footerSub}</div>
           </div>
         </div>
         <div className="font-display text-[20px] font-bold gold sm:text-[24px]">{u.thanks}</div>

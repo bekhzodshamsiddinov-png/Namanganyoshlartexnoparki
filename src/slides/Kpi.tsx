@@ -6,7 +6,7 @@ const num = (s: string) => {
   const m = s.replace(/\s/g, '').match(/\d+/);
   return m ? parseInt(m[0], 10) : NaN;
 };
-const COLORS = ['#64748B', '#22D3EE', '#F5B841'];
+const COLORS = ['#94A3B8', '#0E7490', '#B7791F'];
 
 export function Kpi({ t, active }: SlideProps) {
   const u = t.ui;
@@ -20,12 +20,12 @@ export function Kpi({ t, active }: SlideProps) {
         <div className="flex flex-col items-start gap-3 lg:items-end">
           <div className="flex gap-4">
             {u.kpiCols.map((c, i) => (
-              <span key={c} className="flex items-center gap-2 text-[12px] font-semibold text-slate-300">
+              <span key={c} className="flex items-center gap-2 text-[12px] font-semibold text-slate-600">
                 <span className="h-2.5 w-2.5 rounded-sm" style={{ background: COLORS[i] }} /> {c}
               </span>
             ))}
           </div>
-          <p className="max-w-[440px] text-[12.5px] leading-relaxed text-slate-500 lg:text-right">{u.kpiLead}</p>
+          <p className="max-w-[440px] text-[12.5px] leading-relaxed text-slate-400 lg:text-right">{u.kpiLead}</p>
         </div>
       </div>
 
@@ -37,8 +37,8 @@ export function Kpi({ t, active }: SlideProps) {
           return (
             <div key={i} className="glass flex flex-col justify-center gap-1.5 rounded-2xl px-5 py-2.5 fade-in" style={{ animationDelay: `${i * 50}ms` }}>
               <div className="flex items-baseline justify-between gap-3">
-                <span className="text-[13.5px] font-semibold text-slate-200">{k.label}</span>
-                <span className={`shrink-0 font-display font-bold leading-none text-gold ${isNaN(nums[2]) ? 'text-[13px]' : 'text-[20px]'}`}>
+                <span className="text-[13.5px] font-semibold text-slate-800">{k.label}</span>
+                <span className={`shrink-0 font-display font-bold leading-none text-ink ${isNaN(nums[2]) ? 'text-[13px]' : 'text-[20px]'}`}>
                   <CountUp value={k.y2028} active={active} />
                 </span>
               </div>
@@ -48,13 +48,13 @@ export function Kpi({ t, active }: SlideProps) {
                   const w = isNaN(n) ? (v === '—' ? 0 : 100) : Math.max(2, (n / max) * 100);
                   return (
                     <div key={j} className="flex items-center gap-3">
-                      <div className="h-[5px] flex-1 overflow-hidden rounded-full bg-white/[.05]">
+                      <div className="h-[5px] flex-1 overflow-hidden rounded-full bg-slate-100">
                         <div
                           className="h-full rounded-full transition-[width] duration-[1200ms] ease-out"
                           style={{ width: active ? `${w}%` : '0%', background: COLORS[j], transitionDelay: `${200 + j * 150}ms` }}
                         />
                       </div>
-                      <span className="w-[86px] shrink-0 truncate text-right text-[11px] leading-none font-semibold text-slate-400">{v}</span>
+                      <span className="w-[86px] shrink-0 truncate text-right text-[11px] leading-none font-semibold text-slate-500">{v}</span>
                     </div>
                   );
                 })}

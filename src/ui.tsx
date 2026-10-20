@@ -3,7 +3,7 @@ import { Cpu, Factory, Rocket, GraduationCap, ShieldCheck, Wallet, Network, type
 
 export const ICONS: Record<string, LucideIcon> = { Cpu, Factory, Rocket, GraduationCap, ShieldCheck, Wallet, Network };
 
-export function Eyebrow({ children, color = '#F5B841' }: { children: React.ReactNode; color?: string }) {
+export function Eyebrow({ children, color = '#B7791F' }: { children: React.ReactNode; color?: string }) {
   return (
     <div className="flex items-center gap-3 eyebrow" style={{ color }}>
       <span className="h-px w-8" style={{ background: color }} />
@@ -14,7 +14,7 @@ export function Eyebrow({ children, color = '#F5B841' }: { children: React.React
 
 export function Title({ a, b, className = '' }: { a: string; b?: string; className?: string }) {
   return (
-    <h2 className={`font-display font-bold tracking-tight text-white leading-[1.08] text-[28px] sm:text-[34px] xl:text-[42px] ${className}`}>
+    <h2 className={`font-display font-bold tracking-tight text-slate-900 leading-[1.08] text-[28px] sm:text-[34px] xl:text-[42px] ${className}`}>
       {a} {b && <span className="gold">{b}</span>}
     </h2>
   );

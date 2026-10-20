@@ -7,7 +7,7 @@ export default {
         display: ['Unbounded', 'system-ui', 'sans-serif'],
         sans: ['Manrope', 'system-ui', 'sans-serif'],
       },
-      colors: { gold: '#F5B841', ink: '#070F22' },
+      colors: { gold: '#B7791F', ink: '#0B2A5B' },
     },
   },
   plugins: [],

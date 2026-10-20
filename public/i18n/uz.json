@@ -251,7 +251,7 @@
  "directions": [
   {
    "id": "ai",
-   "color": "#22D3EE",
+   "color": "#0E7490",
    "icon": "Cpu",
    "title": "Sunʼiy intellekt va raqamli texnologiyalar",
    "short": "Sunʼiy intellekt",
@@ -357,7 +357,7 @@
   },
   {
    "id": "industry",
-   "color": "#34D399",
+   "color": "#047857",
    "icon": "Factory",
    "title": "Hudud sanoatiga ixtisoslashuv",
    "short": "Hudud sanoati",
@@ -463,7 +463,7 @@
   },
   {
    "id": "startup",
-   "color": "#A78BFA",
+   "color": "#6D28D9",
    "icon": "Rocket",
    "title": "Startap ekotizimi va investitsiya",
    "short": "Startap va investitsiya",
@@ -588,7 +588,7 @@
   },
   {
    "id": "talent",
-   "color": "#F472B6",
+   "color": "#BE185D",
    "icon": "GraduationCap",
    "title": "Kadrlar tayyorlash va yoshlar qamrovi",
    "short": "Kadrlar va yoshlar",
@@ -694,7 +694,7 @@
   },
   {
    "id": "ip",
-   "color": "#FBBF24",
+   "color": "#B45309",
    "icon": "ShieldCheck",
    "title": "Intellektual mulk va texnologiyalar transferi",
    "short": "Intellektual mulk",
@@ -743,7 +743,7 @@
   },
   {
    "id": "revenue",
-   "color": "#FB923C",
+   "color": "#C2410C",
    "icon": "Wallet",
    "title": "Oʻz daromadini oshirish modeli",
    "short": "Oʻz daromadi",
@@ -811,7 +811,7 @@
   },
   {
    "id": "gov",
-   "color": "#38BDF8",
+   "color": "#1D4ED8",
    "icon": "Network",
    "title": "Boshqaruv, hamkorlik va shaffoflik",
    "short": "Boshqaruv",

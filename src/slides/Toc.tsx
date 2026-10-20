@@ -12,7 +12,7 @@ export function Toc({ t, go }: SlideProps) {
           <Eyebrow>{u.tocEyebrow}</Eyebrow>
           <Title a={u.tocTitleA} b={u.tocTitleB} />
         </div>
-        <p className="max-w-[460px] text-[14px] leading-relaxed text-slate-400">{u.tocLead}</p>
+        <p className="max-w-[460px] text-[14px] leading-relaxed text-slate-500">{u.tocLead}</p>
       </div>
       <div className="grid flex-1 grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-4">
         {t.directions.map((d, i) => {
@@ -34,14 +34,14 @@ export function Toc({ t, go }: SlideProps) {
                 </span>
                 <span className="eyebrow" style={{ color: d.color }}>{d.roman}{u.dirEyebrow}</span>
               </div>
-              <div className="mt-3 font-display text-[16px] font-semibold leading-snug text-white">{d.title}</div>
-              <div className="mt-2 text-[13px] leading-relaxed text-slate-400">{d.desc}</div>
+              <div className="mt-3 font-display text-[16px] font-semibold leading-snug text-slate-900">{d.title}</div>
+              <div className="mt-2 text-[13px] leading-relaxed text-slate-500">{d.desc}</div>
               <div className="mt-auto flex items-end justify-between pt-4">
                 <div>
                   <span className="font-display text-[30px] font-bold" style={{ color: d.color }}>{d.items.length}</span>
-                  <span className="ml-1.5 text-[12px] text-slate-400">{u.proposalsCount}</span>
+                  <span className="ml-1.5 text-[12px] text-slate-500">{u.proposalsCount}</span>
                 </div>
-                <span className="flex h-8 w-8 items-center justify-center rounded-full border border-white/10 transition group-hover:bg-white/10">
+                <span className="flex h-8 w-8 items-center justify-center rounded-full border border-slate-200 transition group-hover:bg-slate-100">
                   <ArrowUpRight size={15} />
                 </span>
               </div>
@@ -54,12 +54,12 @@ export function Toc({ t, go }: SlideProps) {
           style={{ animationDelay: '420ms' }}
         >
           <span className="outline-num pointer-events-none absolute -right-1 -top-3 text-[96px] opacity-30">Σ</span>
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-gold/20"><Map size={16} className="text-gold" /></span>
-          <div className="mt-3 font-display text-[16px] font-semibold text-white">{u.roadmapCard}</div>
-          <div className="mt-2 text-[13px] leading-relaxed text-slate-300">{u.roadmapCardDesc}</div>
+          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-gold/20"><Map size={16} className="text-ink" /></span>
+          <div className="mt-3 font-display text-[16px] font-semibold text-slate-900">{u.roadmapCard}</div>
+          <div className="mt-2 text-[13px] leading-relaxed text-slate-600">{u.roadmapCardDesc}</div>
           <div className="mt-auto flex items-end justify-between pt-4">
-            <span className="font-display text-[30px] font-bold text-gold">30</span>
-            <span className="flex h-8 w-8 items-center justify-center rounded-full border border-gold/30 transition group-hover:bg-gold/20">
+            <span className="font-display text-[30px] font-bold text-ink">30</span>
+            <span className="flex h-8 w-8 items-center justify-center rounded-full border border-gold/30 transition group-hover:bg-gold/10">
               <ArrowUpRight size={15} />
             </span>
           </div>

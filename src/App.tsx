@@ -142,25 +142,25 @@ export function App() {
     return <Final {...p} />;
   };
 
-  const navColor = (i: number) => (i >= DIR_START && i < DIR_START + 7 ? t.directions[i - DIR_START].color : '#F5B841');
+  const navColor = (i: number) => (i >= DIR_START && i < DIR_START + 7 ? t.directions[i - DIR_START].color : '#B7791F');
 
   const header = (
     <header className="relative z-30 flex items-center justify-between gap-4 px-4 py-3 sm:px-8 lg:px-10 lg:py-4">
       <button onClick={() => go(0)} className="flex min-w-0 items-center gap-3 text-left">
         <img src="/logo.svg" alt="" className="h-10 w-10 shrink-0 lg:h-11 lg:w-11" />
         <div className="min-w-0">
-          <div className="truncate text-[12.5px] font-extrabold tracking-[.12em] text-white sm:text-[13.5px]">{t.ui.org}</div>
-          <div className="hidden truncate text-[12px] text-slate-400 sm:block">{t.ui.orgSub}</div>
+          <div className="truncate text-[12.5px] font-extrabold tracking-[.12em] text-slate-900 sm:text-[13.5px]">{t.ui.org}</div>
+          <div className="hidden truncate text-[12px] text-slate-500 sm:block">{t.ui.orgSub}</div>
         </div>
       </button>
       <div className="flex items-center gap-2 sm:gap-3">
-        <div className="flex rounded-full border border-white/10 bg-white/[.04] p-1">
+        <div className="flex rounded-full border border-slate-200 bg-white p-1">
           {LANGS.map((l) => (
             <button
               key={l}
               onClick={() => setLang(l)}
               className={`rounded-full px-2.5 py-1 text-[11.5px] font-bold uppercase tracking-wider transition sm:px-3 ${
-                l === lang ? 'bg-gold text-ink' : 'text-slate-300 hover:text-white'
+                l === lang ? 'bg-ink text-white' : 'text-slate-600 hover:text-ink'
               }`}
             >
               {l === 'uz' ? 'UZ' : l.toUpperCase()}
@@ -169,8 +169,8 @@ export function App() {
         </div>
         {deck ? (
           <>
-            <span className="hidden font-display text-[13px] text-slate-400 xl:inline">
-              <span className="text-white">{String(idx + 1).padStart(2, '0')}</span> / {SLIDE_COUNT}
+            <span className="hidden font-display text-[13px] text-slate-500 xl:inline">
+              <span className="text-slate-900">{String(idx + 1).padStart(2, '0')}</span> / {SLIDE_COUNT}
             </span>
             <IconBtn label={t.ui.overview} onClick={() => setOverview(true)}><LayoutGrid size={16} /></IconBtn>
             <IconBtn label={t.ui.fullscreen} onClick={toggleFs}>{fs ? <Minimize2 size={16} /> : <Maximize2 size={16} />}</IconBtn>
@@ -193,11 +193,11 @@ export function App() {
     return (
       <div className="relative min-h-full">
         {bg}
-        <div className="sticky top-0 z-40 border-b border-white/[.06] bg-ink/80 backdrop-blur-xl">{header}</div>
+        <div className="sticky top-0 z-40 border-b border-slate-200 bg-white/90 backdrop-blur-xl">{header}</div>
         {menu && (
-          <nav className="fixed inset-x-0 top-[64px] z-40 max-h-[75vh] overflow-y-auto border-b border-white/10 bg-ink/95 p-3 backdrop-blur-xl">
+          <nav className="fixed inset-x-0 top-[64px] z-40 max-h-[75vh] overflow-y-auto border-b border-slate-200 bg-white/95 p-3 backdrop-blur-xl">
             {t.ui.nav.map((n, i) => (
-              <button key={i} onClick={() => go(i)} className={`flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-[14px] ${i === idx ? 'bg-white/[.07] text-white' : 'text-slate-300'}`}>
+              <button key={i} onClick={() => go(i)} className={`flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-[14px] ${i === idx ? 'bg-white text-slate-900' : 'text-slate-600'}`}>
                 <span className="font-display text-[11px]" style={{ color: navColor(i) }}>{String(i).padStart(2, '0')}</span> {n}
               </button>
             ))}
@@ -209,7 +209,7 @@ export function App() {
               key={i}
               data-i={i}
               ref={(el) => (sections.current[i] = el)}
-              className="scroll-mt-[64px] border-b border-white/[.04] px-4 py-10 sm:px-8"
+              className="scroll-mt-[64px] border-b border-slate-200 px-4 py-10 sm:px-8"
             >
               {render(i, idx === i)}
             </section>
@@ -230,7 +230,7 @@ export function App() {
       </main>
 
       {/* bottom navigator */}
-      <footer className="relative z-30 flex items-center gap-3 border-t border-white/[.06] bg-ink/60 px-6 py-2.5 backdrop-blur-xl xl:px-10">
+      <footer className="relative z-30 flex items-center gap-3 border-t border-slate-200 bg-white/85 px-6 py-2.5 backdrop-blur-xl xl:px-10">
         <IconBtn label={t.ui.overview} onClick={() => setOverview(true)}><LayoutGrid size={15} /></IconBtn>
         <div className="no-scrollbar flex min-w-0 flex-1 overflow-x-auto">
           {t.ui.nav.map((n, i) => (
@@ -238,7 +238,7 @@ export function App() {
               key={i}
               onClick={() => go(i)}
               data-nav={i}
-              className={`relative shrink-0 px-2 py-2 text-[11px] font-semibold transition 2xl:px-3 ${i === idx ? 'text-white' : 'text-slate-500 hover:text-slate-300'}`}
+              className={`relative shrink-0 px-2 py-2 text-[11px] font-semibold transition 2xl:px-3 ${i === idx ? 'text-slate-900' : 'text-slate-400 hover:text-slate-700'}`}
             >
               <span className="mr-1.5 font-display text-[10px]" style={{ color: i === idx ? navColor(i) : undefined }}>{String(i).padStart(2, '0')}</span>
               {n}
@@ -252,12 +252,12 @@ export function App() {
         <IconBtn label={t.ui.prev} onClick={() => go(idx - 1)} disabled={idx === 0}><ChevronLeft size={17} /></IconBtn>
         <IconBtn label={t.ui.next} onClick={() => go(idx + 1)} disabled={idx === SLIDE_COUNT - 1}><ChevronRight size={17} /></IconBtn>
       </footer>
-      <div className="absolute inset-x-0 bottom-0 z-40 h-[2px] bg-white/[.04]">
+      <div className="absolute inset-x-0 bottom-0 z-40 h-[2px] bg-white">
         <div className="h-full bg-gold transition-all duration-500" style={{ width: `${((idx + 1) / SLIDE_COUNT) * 100}%` }} />
       </div>
 
       {overview && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-ink/80 p-10 backdrop-blur-xl fade-in" onClick={() => setOverview(false)}>
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-white/90 p-10 backdrop-blur-xl fade-in" onClick={() => setOverview(false)}>
           <div className="grid w-full max-w-[1200px] grid-cols-3 gap-4 xl:grid-cols-4" onClick={(e) => e.stopPropagation()}>
             {t.ui.nav.map((n, i) => (
               <button
@@ -266,11 +266,11 @@ export function App() {
                 className={`glass group flex h-[110px] flex-col justify-between rounded-2xl p-4 text-left transition hover:-translate-y-1 ${i === idx ? 'ring-2 ring-gold' : ''}`}
               >
                 <span className="font-display text-[26px] font-bold" style={{ color: navColor(i) }}>{String(i).padStart(2, '0')}</span>
-                <span className="text-[14px] font-semibold text-white">{n}</span>
+                <span className="text-[14px] font-semibold text-slate-900">{n}</span>
               </button>
             ))}
           </div>
-          <button className="absolute right-8 top-8 text-slate-300 hover:text-white" onClick={() => setOverview(false)} aria-label="close"><X size={26} /></button>
+          <button className="absolute right-8 top-8 text-slate-600 hover:text-ink" onClick={() => setOverview(false)} aria-label="close"><X size={26} /></button>
         </div>
       )}
     </div>
@@ -284,7 +284,7 @@ function IconBtn({ children, label, onClick, disabled }: { children: React.React
       aria-label={label}
       onClick={onClick}
       disabled={disabled}
-      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/[.04] text-slate-200 transition hover:bg-white/10 disabled:opacity-30"
+      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-slate-200 bg-white text-slate-800 transition hover:bg-slate-100 disabled:opacity-30"
     >
       {children}
     </button>
