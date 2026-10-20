@@ -76,7 +76,7 @@ export function Final({ t, active }: SlideProps) {
 
       <div className="glass mt-auto flex flex-col items-start justify-between gap-4 rounded-2xl px-5 py-4 sm:flex-row sm:items-center">
         <div className="flex items-center gap-3">
-          <img src="/logo.svg" alt="" className="h-11 w-11" />
+          <img src="/logo.png" alt="" className="h-11 w-11" />
           <div>
             <div className="text-[14px] font-bold text-slate-900">{u.footerOrg}</div>
             <div className="text-[12px] text-slate-500">{u.footerSub}</div>

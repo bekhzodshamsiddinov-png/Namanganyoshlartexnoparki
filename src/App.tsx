@@ -147,7 +147,7 @@ export function App() {
   const header = (
     <header className="relative z-30 flex items-center justify-between gap-4 px-4 py-3 sm:px-8 lg:px-10 lg:py-4">
       <button onClick={() => go(0)} className="flex min-w-0 items-center gap-3 text-left">
-        <img src="/logo.svg" alt="" className="h-10 w-10 shrink-0 lg:h-11 lg:w-11" />
+        <img src="/logo.png" alt="" className="h-10 w-10 shrink-0 lg:h-11 lg:w-11" />
         <div className="min-w-0">
           <div className="truncate text-[12.5px] font-extrabold tracking-[.12em] text-slate-900 sm:text-[13.5px]">{t.ui.org}</div>
           <div className="hidden truncate text-[12px] text-slate-500 sm:block">{t.ui.orgSub}</div>
