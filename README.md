@@ -7,6 +7,12 @@ Namangan yoshlar texnoparki faoliyatini rivojlantirish bo‘yicha 30 ta innovats
 - Til: `?lang=uz|ru|en`, slayd: `#1`…`#13`
 - Mobil qurilmada slaydlar vertikal sahifaga aylanadi
 
+## Havolalar
+
+- Sayt: https://namangan-yoshlar-texnoparki.vercel.app
+- Dizayn (Magic Patterns): https://www.magicpatterns.com/c/km7uj6t1hx69hqrygvnx2o
+- Dizayn skrinshotlari: `design/` papkasi
+
 ## Ishga tushirish
 
 ```bash
