@@ -197,7 +197,7 @@ export function App() {
         {menu && (
           <nav className="fixed inset-x-0 top-[64px] z-40 max-h-[75vh] overflow-y-auto border-b border-slate-200 bg-white/95 p-3 backdrop-blur-xl">
             {t.ui.nav.map((n, i) => (
-              <button key={i} onClick={() => go(i)} className={`flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-[14px] ${i === idx ? 'bg-white text-slate-900' : 'text-slate-600'}`}>
+              <button key={i} onClick={() => go(i)} className={`flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-[14px] ${i === idx ? 'bg-slate-100 text-slate-900' : 'text-slate-600'}`}>
                 <span className="font-display text-[11px]" style={{ color: navColor(i) }}>{String(i).padStart(2, '0')}</span> {n}
               </button>
             ))}
@@ -252,7 +252,7 @@ export function App() {
         <IconBtn label={t.ui.prev} onClick={() => go(idx - 1)} disabled={idx === 0}><ChevronLeft size={17} /></IconBtn>
         <IconBtn label={t.ui.next} onClick={() => go(idx + 1)} disabled={idx === SLIDE_COUNT - 1}><ChevronRight size={17} /></IconBtn>
       </footer>
-      <div className="absolute inset-x-0 bottom-0 z-40 h-[2px] bg-white">
+      <div className="absolute inset-x-0 bottom-0 z-40 h-[2px] bg-slate-100">
         <div className="h-full bg-gold transition-all duration-500" style={{ width: `${((idx + 1) / SLIDE_COUNT) * 100}%` }} />
       </div>
 
