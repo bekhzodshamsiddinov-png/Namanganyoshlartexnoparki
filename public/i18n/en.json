@@ -1,0 +1,962 @@
+{
+ "meta": {
+  "lang": "en",
+  "title": "Namangan Youth Technopark — Innovation Proposals"
+ },
+ "ui": {
+  "org": "NAMANGAN YOUTH TECHNOPARK",
+  "orgSub": "Innovation proposals for developing the technopark · 2026",
+  "nav": [
+   "Introduction",
+   "Contents",
+   "State & Solution",
+   "AI",
+   "Local Industry",
+   "Startups",
+   "Talent",
+   "IP & Transfer",
+   "Own Revenue",
+   "Governance",
+   "Roadmap",
+   "KPI",
+   "Conclusion"
+  ],
+  "coverEyebrow": "Namangan Region · Development Strategy · 2026–2028",
+  "coverTitleA": "Transforming Namangan Youth Technopark",
+  "coverTitleB": "into an innovation",
+  "coverTitleC": "ecosystem",
+  "coverLead": "From an equipment centre to a self-financing platform that brings together youth startups, regional enterprises, universities and investors.",
+  "coverStats": [
+   [
+    "30",
+    "",
+    "innovation proposals"
+   ],
+   [
+    "7",
+    "",
+    "strategic directions"
+   ],
+   [
+    "80",
+    "",
+    "startup teams by 2028"
+   ],
+   [
+    "2 500",
+    "",
+    "young people reached annually"
+   ]
+  ],
+  "coverChips": [
+   "Artificial Intelligence",
+   "Startup Ecosystem",
+   "Regional Industry"
+  ],
+  "directionsWord": "DIRECTION",
+  "tocEyebrow": "Contents",
+  "tocTitleA": "Seven directions —",
+  "tocTitleB": "30 measurable proposals",
+  "tocLead": "Each proposal comes with its scope, implementation mechanism, timeline, partners and measurable outcome.",
+  "proposalsCount": "proposals",
+  "roadmapCard": "Roadmap & KPIs",
+  "roadmapCardDesc": "Q4 2026 — 2028: timelines, responsible parties and target indicators.",
+  "stateEyebrow": "Current state",
+  "stateTitleA": "The starting point and",
+  "stateTitleB": "a clear solution to each problem",
+  "stateLead": "Based on the technopark's survey responses. A new proposal addresses each identified problem.",
+  "baseline": [
+   [
+    "150",
+    "m²",
+    "production space"
+   ],
+   [
+    "15",
+    "",
+    "units of technology equipment"
+   ],
+   [
+    "12",
+    "",
+    "startup teams"
+   ],
+   [
+    "50+",
+    "",
+    "students engaged"
+   ],
+   [
+    "2",
+    "",
+    "mentors"
+   ],
+   [
+    "10+",
+    "",
+    "prototypes, 2 in production"
+   ]
+  ],
+  "problemsTitle": "Problem",
+  "solutionTitle": "Proposed solution",
+  "problems": [
+   [
+    "No registry of enterprises' technology challenges and orders",
+    [
+     3
+    ]
+   ],
+   [
+    "No pilot testing or independent expert reviews; 9 prototypes still at mock-up stage",
+    [
+     23,
+     13
+    ]
+   ],
+   [
+    "No reported results in technology transfer",
+    [
+     22
+    ]
+   ],
+   [
+    "Only 2 mentors",
+    [
+     16
+    ]
+   ],
+   [
+    "Mature startups show little interest in staying at the technopark",
+    [
+     11,
+     28
+    ]
+   ],
+   [
+    "Funding relies solely on rent and production services",
+    [
+     24,
+     25,
+     12
+    ]
+   ],
+   [
+    "Outreach is largely limited to urban youth",
+    [
+     19,
+     20
+    ]
+   ]
+  ],
+  "dirEyebrow": " · DIRECTION",
+  "what": "Scope",
+  "how": "Implementation mechanism",
+  "result": "Expected outcome",
+  "term": "Timeline",
+  "partners": "Partners",
+  "proposal": "Proposal",
+  "roadmapEyebrow": "Roadmap",
+  "roadmapTitleA": "Launch plan —",
+  "roadmapTitleB": "30 proposals",
+  "roadmapLead": "Dark shade — launch quarter; light shade — ongoing activity.",
+  "quarters": [
+   "2026 · Q4",
+   "2027 · Q1",
+   "2027 · Q2",
+   "2027 · Q3"
+  ],
+  "all": "All",
+  "kpiEyebrow": "Target indicators",
+  "kpiTitleA": "Measurable",
+  "kpiTitleB": "results",
+  "kpiLead": "“Now” — technopark survey data; “—” indicates no data reported.",
+  "kpiCols": [
+   "Now",
+   "2027",
+   "2028"
+  ],
+  "finalEyebrow": "Ultimate goal",
+  "finalTitleA": "From idea",
+  "finalTitleB": "to commercialization",
+  "finalLead": "By the end of 2028, the technopark will become the Fergana Valley's leading centre for artificial intelligence, textile technology and the digitalization of crafts.",
+  "funnel": [
+   [
+    "2 500",
+    "young people engaged"
+   ],
+   [
+    "500+",
+    "ideas screened"
+   ],
+   [
+    "80",
+    "startup teams"
+   ],
+   [
+    "25",
+    "prototypes in production"
+   ],
+   [
+    "20",
+    "startups funded"
+   ],
+   [
+    "40",
+    "IP applications"
+   ]
+  ],
+  "finalTiles": [
+   [
+    "60",
+    "partner enterprises"
+   ],
+   [
+    "50",
+    "mentors"
+   ],
+   [
+    "800",
+    "international certificates"
+   ],
+   [
+    "500",
+    "businesses digitalized"
+   ]
+  ],
+  "thanks": "Thank you for your attention",
+  "footerOrg": "Namangan Youth Technopark",
+  "footerSub": "Namangan Region · 2026",
+  "prev": "Previous",
+  "next": "Next",
+  "overview": "All slides",
+  "fullscreen": "Full screen",
+  "phases": [
+   [
+    "Q4 2026",
+    "Quick start",
+    "KPI dashboard, advisory board, mentor network, maker membership — 8 proposals"
+   ],
+   [
+    "2027",
+    "Scale-up",
+    "AI Hub, TextileTech, Startup Studio, Angels club — 22 proposals"
+   ],
+   [
+    "2028",
+    "Leadership",
+    "Fergana Valley hub for AI and industrial innovation"
+   ]
+  ]
+ },
+ "directions": [
+  {
+   "id": "ai",
+   "color": "#22D3EE",
+   "icon": "Cpu",
+   "title": "Artificial Intelligence and Digital Technologies",
+   "short": "AI",
+   "desc": "AI services, small business digitalization, IoT and AI education in schools.",
+   "roman": "I",
+   "items": [
+    {
+     "n": 1,
+     "short": "Namangan AI Hub",
+     "title": "Establish “Namangan AI Hub” at the technopark — a centre for practical AI adoption",
+     "what": "The centre will offer ready-made AI solutions to regional SMEs on an AI-as-a-Service basis: computer-vision detection of fabric and stitching defects in textile plants, Uzbek-language chatbots and voice assistants for retail and service businesses, document workflow automation, and sales forecasting.",
+     "how": [
+      "Form 3–5 “AI teams” of students and startup members, each assigned a mentor",
+      "Run pilots at no fewer than 5 enterprises each quarter, documenting results with before/after metrics",
+      "Develop a transparent price list and a standard service contract"
+     ],
+     "result": "Jobs for young people based on real orders, lower costs for enterprises, and a sustainable revenue stream for the technopark.",
+     "term": "Q1 2027",
+     "partners": "Technopark, Namangan State Technical University, IT Park",
+     "q": 1,
+     "metric": {
+      "v": "20+",
+      "l": "enterprises with pilot AI solutions / year"
+     }
+    },
+    {
+     "n": 2,
+     "short": "Digital Employee",
+     "title": "“Digital Employee” programme — a service to digitalize a small business in 30 days",
+     "what": "A standard package for neighbourhood and district entrepreneurs (shops, eateries, clinics, training centres) covering a Telegram bot, online ordering, CRM, electronic reporting and automated social media marketing. The service is delivered by students trained at the technopark.",
+     "how": [
+      "Define “Starter”, “Standard” and “Premium” packages with fixed prices",
+      "Engage entrepreneurs through khokim assistants and the regional office of the Youth Affairs Agency",
+      "Add every completed project to the student's portfolio"
+     ],
+     "result": "At least 200 small businesses digitalized per year, and more than 100 young people earning freelance income.",
+     "term": "Q4 2026",
+     "partners": "Technopark, Youth Affairs Agency",
+     "q": 0,
+     "metric": {
+      "v": "200+",
+      "l": "small businesses digitalized / year"
+     }
+    },
+    {
+     "n": 3,
+     "short": "Namangan Challenge",
+     "title": "Launch “Namangan Challenge” — an open innovation platform for regional enterprises' technology challenges",
+     "what": "The survey notes the absence of a unified registry of enterprises' technology challenges and orders. On the platform, enterprises post a challenge (e.g. cutting energy use, recycling waste, replacing imported parts) and a reward; young people and startups propose solutions. The winning solution is prototyped on technopark equipment.",
+     "how": [
+      "Connect enterprises to the platform via the regional khokimiyat and the regional office of the Chamber of Commerce and Industry",
+      "Update the challenge registry monthly and publish it openly",
+      "Make a pilot contract between the enterprise and the technopark a mandatory step for winning solutions"
+     ],
+     "result": "A steady order pipeline for the technopark and startup ideas grounded in real problems for young people.",
+     "term": "Q1 2027",
+     "partners": "Technopark, regional khokimiyat, Chamber of Commerce and Industry",
+     "q": 1,
+     "metric": {
+      "v": "50+",
+      "l": "enterprise challenges in the open registry"
+     }
+    },
+    {
+     "n": 4,
+     "short": "IoT & Digital Twin Lab",
+     "title": "Establish an industrial IoT and digital twin laboratory",
+     "what": "Develop and install low-cost sensor kits for textile, food and cold-storage facilities to remotely monitor equipment condition, electricity and gas consumption, temperature and humidity.",
+     "how": [
+      "Use existing 3D printers and robotics equipment to produce sensor housings and control units",
+      "Formalize joint laboratory status with Namangan State Technical University",
+      "Introduce a shared-savings contract model with enterprises based on energy savings achieved"
+     ],
+     "result": "Energy consumption at enterprises reduced by up to 10–20%, and a locally manufactured IoT product line.",
+     "term": "Q2 2027",
+     "partners": "Technopark, Namangan State Technical University, enterprises",
+     "q": 2,
+     "metric": {
+      "v": "10–20%",
+      "l": "energy savings at enterprises"
+     }
+    },
+    {
+     "n": 5,
+     "short": "AI Teacher",
+     "title": "Launch the “AI Teacher” retraining programme for school teachers",
+     "what": "A 72-hour hands-on course for the region's computer science, physics and technology teachers on AI tools, robotics and 3D modelling. Each teacher opens a technopark-oriented club at their school and refers gifted students to the technopark.",
+     "how": [
+      "Select teachers under an agreement with the regional Department of Preschool and School Education",
+      "Award certificates to graduates and work towards recognizing the course as professional development hours",
+      "Hold an annual regional “Best AI Teacher” competition"
+     ],
+     "result": "A continuous pipeline of young talent from school level; a network of technopark “ambassador teachers” in every district.",
+     "term": "Q1 2027",
+     "partners": "Technopark, School Education Department",
+     "q": 1,
+     "metric": {
+      "v": "150+",
+      "l": "teachers retrained"
+     }
+    }
+   ]
+  },
+  {
+   "id": "industry",
+   "color": "#34D399",
+   "icon": "Factory",
+   "title": "Specialization in Regional Industry",
+   "short": "Local Industry",
+   "desc": "Textiles, agritech, crafts, green and assistive technologies.",
+   "roman": "II",
+   "items": [
+    {
+     "n": 6,
+     "short": "TextileTech Lab",
+     "title": "Open the “TextileTech Lab” for textiles and light industry",
+     "what": "Prototyping services for textiles and garment-making, Namangan Region's leading industry: digital fashion design (3D virtual patterns and samples), laser cutting, embroidery and labelling, and smart fabrics.",
+     "how": [
+      "Sign partnership memoranda with Textgroup and other textile clusters in the region",
+      "Hold a “Design Sprint” for young designers — a two-week competition to create a collection to order",
+      "Help enterprises introduce export-compliant product labels and QR-code traceability"
+     ],
+     "result": "Shorter new-product development cycles for the industry and jobs for young designers and technologists.",
+     "term": "Q2 2027",
+     "partners": "Technopark, textile enterprises",
+     "q": 2,
+     "metric": {
+      "v": "10+",
+      "l": "textile enterprise partnerships"
+     }
+    },
+    {
+     "n": 7,
+     "short": "AgroTech Testbed",
+     "title": "“Namangan AgroTech Testbed” — a field-testing site for agricultural technologies",
+     "what": "In partnership with farms and horticulture clusters, field-test smart irrigation, soil moisture sensors, drone-based crop monitoring and monitoring of fruit and vegetable storage. Namangan's floriculture and horticulture traditions are taken into account.",
+     "how": [
+      "Sign test-site agreements with 1–2 farms",
+      "Keep a protocol and results report for every trial — building a pilot testing and validation system at the same time",
+      "Develop a leasing or subscription model to deliver successful solutions to farmers"
+     ],
+     "result": "Field-validated test results for prototypes and first customers for agritech startups.",
+     "term": "Q2 2027",
+     "partners": "Technopark, farms",
+     "q": 2,
+     "metric": {
+      "v": "10+",
+      "l": "solutions field-tested"
+     }
+    },
+    {
+     "n": 8,
+     "short": "CraftTech",
+     "title": "Digitalize crafts and jewellery — launch the “CraftTech” direction",
+     "what": "Enhance regional crafts — Chust knives, skullcap-making, pottery, woodcarving — with modern design using 3D scanning, laser engraving and jewellery equipment. Prepare advance customers and a team of young artisans for the 6 jewellery machines now being installed.",
+     "how": [
+      "Launch a “master–apprentice + digital design” programme with the Craftsmen's Association",
+      "Help set up photography, product descriptions and payment systems for export via international e-commerce platforms",
+      "Open a 3D-printed wax model service for jewellery"
+     ],
+     "result": "The regional brand reaches foreign markets; income-generating home-based jobs for women and young people.",
+     "term": "Q1 2027",
+     "partners": "Technopark, Craftsmen's Association",
+     "q": 1,
+     "metric": {
+      "v": "100+",
+      "l": "artisans and young craftsmen"
+     }
+    },
+    {
+     "n": 9,
+     "short": "Green Technologies",
+     "title": "“Green Technologies” — recycling plastic waste into 3D printer filament and finished products",
+     "what": "Using the existing thermoplastic equipment and 3D printers, shred plastic waste collected from neighbourhoods, schools and enterprises, turn it into filament and pellets, and produce building tiles, furniture fittings and educational supplies.",
+     "how": [
+      "Run a “Hand in plastic — get a bonus” campaign in neighbourhoods through youth leaders",
+      "Sign recycling partnership agreements with the khokimiyat and sanitation companies",
+      "Cut costs by producing consumables for the technopark's 3D printers in-house"
+     ],
+     "result": "Lower consumables costs, a ready business model for eco-startups, and a contribution to the region's environment.",
+     "term": "Q1 2027",
+     "partners": "Technopark, khokimiyat, mahallas",
+     "q": 1,
+     "metric": {
+      "v": "5 t",
+      "l": "plastic waste recycled / year"
+     }
+    },
+    {
+     "n": 10,
+     "short": "Assistive Technologies",
+     "title": "Open an assistive technologies direction for persons with disabilities (3D-printed prostheses, adapted devices)",
+     "what": "Use 3D printers to develop hand prostheses, orthoses, tactile learning aids for the visually impaired and adapted mobility devices. With its strong social value, this direction provides a solid basis for attracting international grants and sponsors.",
+     "how": [
+      "Compile a register of people in need together with medical institutions and social protection bodies",
+      "Establish a procedure for obtaining a physician's opinion for every product",
+      "Set up a dedicated grant and sponsorship fund for social startups"
+     ],
+     "result": "A local solution several times cheaper than imported prostheses, and a stronger social reputation for the technopark.",
+     "term": "Q3 2027",
+     "partners": "Technopark, medical institutions",
+     "q": 3,
+     "metric": {
+      "v": "50+",
+      "l": "adapted solutions for people in need"
+     }
+    }
+   ]
+  },
+  {
+   "id": "startup",
+   "color": "#A78BFA",
+   "icon": "Rocket",
+   "title": "Startup Ecosystem and Investment",
+   "short": "Startups & Investment",
+   "desc": "Startup Studio, business angels, first-order procurement, corporate accelerators.",
+   "roman": "III",
+   "items": [
+    {
+     "n": 11,
+     "short": "Startup Studio",
+     "title": "Transition the technopark to a “Startup Studio” (venture builder) model",
+     "what": "Rather than merely receiving ideas, the technopark itself identifies market problems, assembles teams and takes them through prototyping and legal registration to their first customer. In return, an agreed share of the startup's revenue or equity (royalty or stake) returns to the technopark, as provided by law.",
+     "how": [
+      "Develop the legal basis for the model (royalty agreement, equity stake or other mechanism) in agreement with the Innovative Development Agency",
+      "Each year, launch 5 studio startups based on the 5 most in-demand challenges on the “Namangan Challenge” platform",
+      "Assign an experienced entrepreneur to each studio startup as a “founder-mentor”"
+     ],
+     "result": "Companies that reach the market instead of projects stuck at the idea stage, and long-term revenue for the technopark.",
+     "term": "Q2 2027",
+     "partners": "Technopark, Innovative Development Agency",
+     "q": 2,
+     "metric": {
+      "v": "5",
+      "l": "studio startups / year"
+     }
+    },
+    {
+     "n": 12,
+     "short": "Namangan Angels",
+     "title": "“Namangan Angels” — establish a local business angel club",
+     "what": "Unite successful regional entrepreneurs in a club that makes small investments in startups. A closed pitch session is held at the technopark every month, and club members co-invest as a syndicate.",
+     "how": [
+      "Recruit 15–20 entrepreneurs to the club in the first phase",
+      "Prepare a set of standard investment documents (term sheet, equity split, convertible note)",
+      "Channel the best projects to follow-on investment with UzVC and other venture funds"
+     ],
+     "result": "Access to private capital beyond state grants, with at least 8–10 startups funded per year.",
+     "term": "Q1 2027",
+     "partners": "Technopark, entrepreneurs, UzVC",
+     "q": 1,
+     "metric": {
+      "v": "8–10",
+      "l": "startups funded / year"
+     }
+    },
+    {
+     "n": 13,
+     "short": "First Order",
+     "title": "“First Order” mechanism — pilot procurement of startup products by public organizations",
+     "what": "A startup's biggest barrier is its first customer. The regional and district khokimiyats, utilities, schools and hospitals will place at least 5–10 pilot orders with technopark startups each year (e.g. smart lighting, queue management systems, e-accounting solutions).",
+     "how": [
+      "Set the pilot procurement budget limit and selection procedure within public procurement law",
+      "Have the organization issue a formal assessment (letter of recommendation) at the end of each pilot",
+      "Scale solutions with positive assessments to other districts"
+     ],
+     "result": "A real portfolio and revenue for startups, and better-quality public services.",
+     "term": "Q2 2027",
+     "partners": "Regional and district khokimiyats",
+     "q": 2,
+     "metric": {
+      "v": "5–10",
+      "l": "public pilot orders / year"
+     }
+    },
+    {
+     "n": 14,
+     "short": "Corporate Accelerators",
+     "title": "Launch “Corporate Accelerator” programmes with major enterprises",
+     "what": "Each major enterprise (Nambiotest, Textgroup, Mexmash and others) funds one three-month acceleration cohort per year tailored to its needs. The enterprise sets the challenge, the technopark provides the teams and methodology, and the winning teams sign contracts with the enterprise.",
+     "how": [
+      "Agree a separate partnership programme and budget with each enterprise",
+      "Hold a Demo Day with the enterprise's leadership at the end of each accelerator",
+      "Give the enterprise the option to adopt the solution in-house or acquire the startup (M&A)"
+     ],
+     "result": "Enterprises' innovation spending flows through the technopark; young people gain a direct path into industry.",
+     "term": "Q2 2027",
+     "partners": "Technopark, major enterprises",
+     "q": 2,
+     "metric": {
+      "v": "3+",
+      "l": "corporate accelerator cohorts / year"
+     }
+    },
+    {
+     "n": 15,
+     "short": "Hack Week & Valley Forum",
+     "title": "Hold quarterly “Namangan Hack Week” hackathons and an annual “Fergana Valley Startup Week” forum",
+     "what": "Each quarter has its own theme (AI, AgroTech, TextileTech, GreenTech). The annual forum brings together the Andijan, Fergana and Namangan technoparks, investors and international experts, positioning Namangan as the startup hub of the valley.",
+     "how": [
+      "Build the hackathon prize fund from sponsoring enterprises",
+      "Admit winning teams directly to InnoX or the Startup Studio programme",
+      "Livestream the forum and publish the results as an open report"
+     ],
+     "result": "More than 500 young people engaged each year, and a flow of new teams and investors.",
+     "term": "Quarterly / Q3 2027",
+     "partners": "Technopark, sponsoring enterprises",
+     "q": 0,
+     "metric": {
+      "v": "500+",
+      "l": "participants / year"
+     }
+    },
+    {
+     "n": 16,
+     "short": "Namangan Global Mentors",
+     "title": "“Namangan Global Mentors” — engaging Namangan professionals at home and abroad as mentors",
+     "what": "The technopark currently has only 2 mentors. Unite compatriots from Namangan who work at international companies or have succeeded in science and business into an online mentoring network.",
+     "how": [
+      "Build a mentor database and schedule at least 2 online sessions per month for each startup",
+      "Non-financial incentives for mentors: “Honorary Mentor” status, khokimiyat letters of appreciation, recognition at events",
+      "Invite mentors to Namangan once a year as part of the forum"
+     ],
+     "result": "Mentor numbers grow from 2 to at least 30, giving startups international expertise and connections.",
+     "term": "Q4 2026",
+     "partners": "Technopark, diaspora compatriots",
+     "q": 0,
+     "metric": {
+      "v": "2 → 30",
+      "l": "number of mentors"
+     }
+    }
+   ]
+  },
+  {
+   "id": "talent",
+   "color": "#F472B6",
+   "icon": "GraduationCap",
+   "title": "Talent Development and Youth Outreach",
+   "short": "Talent & Youth",
+   "desc": "Fellowship, international certification, Mobile FabLab, Women in Tech, startup as a thesis.",
+   "roman": "IV",
+   "items": [
+    {
+     "n": 17,
+     "short": "Technopark Fellowship",
+     "title": "“Technopark Fellowship” — a 6-month paid internship programme",
+     "what": "Gifted university graduates and senior students spend 6 months at the technopark working on a real project commissioned by an enterprise. The stipend is co-funded by the enterprise and the technopark, and the best fellows are hired by the enterprise at the end.",
+     "how": [
+      "Admit 20–30 young people per cohort through an open competition",
+      "Require the commissioning enterprise to cover at least half of the stipend",
+      "Agree with universities to recognize the programme as a professional internship or graduation thesis"
+     ],
+     "result": "Employment for graduates, job-ready talent for enterprises, and a network of corporate partners for the technopark.",
+     "term": "Q1 2027",
+     "partners": "Technopark, universities, enterprises",
+     "q": 1,
+     "metric": {
+      "v": "20–30",
+      "l": "fellows per cohort"
+     }
+    },
+    {
+     "n": 18,
+     "short": "Certification Centre",
+     "title": "Establish an international certification and testing centre at the technopark",
+     "what": "Make it possible to take internationally recognized certification exams in 3D modelling, engineering design, networking, cloud services and programming in Namangan itself. Today, young people have to travel to Tashkent.",
+     "how": [
+      "Apply to international exam providers for official test centre status",
+      "Offer paid exam preparation courses using technopark equipment",
+      "Direct graduates of “One Million Coders” and IT Park training programmes to certification"
+     ],
+     "result": "Young people more competitive on the global labour market, and a sustainable service revenue for the technopark.",
+     "term": "Q3 2027",
+     "partners": "Technopark, IT Park",
+     "q": 3,
+     "metric": {
+      "v": "300+",
+      "l": "international certificates / year"
+     }
+    },
+    {
+     "n": 19,
+     "short": "Mobile FabLab",
+     "title": "Launch a “Mobile FabLab” for the districts — a technopark lab on wheels",
+     "what": "A specially equipped vehicle carries a 3D printer, robotics kits, laptops and VR headsets. On a set schedule, the mobile lab visits schools and colleges in Chust, Pop, Kosonsoy, Uchkurgan, Davlatobod and other districts, running hands-on sessions and idea selection.",
+     "how": [
+      "Equip the mobile lab through an international grant or a sponsoring enterprise",
+      "Approve a schedule of at least 2 visits per month to each district",
+      "Admit gifted young people identified in the districts to the technopark's core programmes"
+     ],
+     "result": "The technopark's reach extends from the city to the entire region, with equal opportunity for rural youth.",
+     "term": "Q3 2027",
+     "partners": "Technopark, donors and sponsors",
+     "q": 3,
+     "metric": {
+      "v": "2×",
+      "l": "monthly visits to each district"
+     }
+    },
+    {
+     "n": 20,
+     "short": "Women in Tech Namangan",
+     "title": "Launch the “Women in Tech Namangan” programme for girls and women",
+     "what": "A dedicated track to engage girls in programming, digital design, AI and entrepreneurship: mentoring by successful women entrepreneurs, remote work skills, and a separate competition for women-founded startups.",
+     "how": [
+      "Recruit participants together with women's committees and mahalla activists",
+      "Schedule sessions at convenient times and in convenient formats for girls (blended online/offline)",
+      "Submit joint applications to international organizations' gender equality grant programmes"
+     ],
+     "result": "The share of girls among technopark participants reaches at least 30%.",
+     "term": "Q1 2027",
+     "partners": "Technopark, women's committees",
+     "q": 1,
+     "metric": {
+      "v": "30%",
+      "l": "share of girls"
+     }
+    },
+    {
+     "n": 21,
+     "short": "Startup as a Thesis",
+     "title": "Scale up the “Startup as a Thesis” practice across Namangan's universities",
+     "what": "Together with Namangan State University, Namangan State Technical University and other universities, establish a system allowing students to defend a startup project and prototype built at the technopark as their graduation thesis.",
+     "how": [
+      "Develop joint regulations with universities, including defence criteria and procedures",
+      "Include a technopark representative and entrepreneurs on the defence committee",
+      "Give students who defend a startup priority admission to the Startup Studio programme"
+     ],
+     "result": "Research no longer gathers dust on the shelf but becomes a practical product; universities meet their startup KPIs.",
+     "term": "2026–2027 academic year",
+     "partners": "Universities, technopark",
+     "q": 0,
+     "metric": {
+      "v": "4",
+      "l": "universities with joint regulations"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ip",
+   "color": "#FBBF24",
+   "icon": "ShieldCheck",
+   "title": "Intellectual Property and Technology Transfer",
+   "short": "IP & Transfer",
+   "desc": "IP and technology transfer office, independent technical review and TRL assessment.",
+   "roman": "V",
+   "items": [
+    {
+     "n": 22,
+     "short": "IP & Transfer Office",
+     "title": "Establish an intellectual property and technology transfer office at the technopark",
+     "what": "The survey reports no results in technology transfer. The office will provide free advice to young people and researchers on registering inventions, utility models, industrial designs and trademarks, and will arrange licensing of developments to enterprises.",
+     "how": [
+      "Sign a memorandum of cooperation with the competent IP authorities",
+      "Make an IP protection assessment a mandatory step for every prototype built at the technopark",
+      "Establish a transparent licensing revenue split between the author, the technopark and the university"
+     ],
+     "result": "Applications for at least 15 IP objects per year, and additional revenue from licensing.",
+     "term": "Q1 2027",
+     "partners": "Technopark, competent authorities",
+     "q": 1,
+     "metric": {
+      "v": "15+",
+      "l": "IP applications / year"
+     }
+    },
+    {
+     "n": 23,
+     "short": "Review & Validation Board",
+     "title": "Set up an independent “Technical Review and Validation Board” for prototypes",
+     "what": "The survey shows there are no pilot test protocols or independent expert reviews. The board, made up of university professors, industry engineers and investors, will assess each prototype by Technology Readiness Level (TRL).",
+     "how": [
+      "Approve a single assessment form and criteria based on the TRL scale",
+      "Review the 9 mock-up-stage prototypes first and draw up a roadmap for each",
+      "Present projects with positive reviews to investors and enterprises"
+     ],
+     "result": "Prototypes in production grow from 2 to at least 10; a reliable data base for investors.",
+     "term": "Q4 2026",
+     "partners": "Technopark, universities, enterprises",
+     "q": 0,
+     "metric": {
+      "v": "2 → 10",
+      "l": "prototypes in production"
+     }
+    }
+   ]
+  },
+  {
+   "id": "revenue",
+   "color": "#FB923C",
+   "icon": "Wallet",
+   "title": "Own-Revenue Growth Model",
+   "short": "Own Revenue",
+   "desc": "Maker membership, international grants project office, technopark brand and online store.",
+   "roman": "VI",
+   "items": [
+    {
+     "n": 24,
+     "short": "Maker Membership",
+     "title": "Introduce “maker membership” and hourly equipment access with online booking",
+     "what": "Young people, artisans and small entrepreneurs use 3D printers, lasers and other equipment on a monthly membership or hourly basis. Equipment availability is managed through an online schedule, which also allows utilization to be measured precisely.",
+     "how": [
+      "Set tiered pricing for students, startups and commercial clients",
+      "Introduce mandatory short safety training and a user permit before equipment use",
+      "Keep a monthly utilization report for each piece of equipment"
+     ],
+     "result": "Higher equipment utilization, a small but steady revenue stream, and systematic safety assurance.",
+     "term": "Q4 2026",
+     "partners": "Technopark",
+     "q": 0,
+     "metric": {
+      "v": "70%+",
+      "l": "equipment utilization"
+     }
+    },
+    {
+     "n": 25,
+     "short": "Grants Project Office",
+     "title": "Establish a “Project Office” to work with international grants and donor organizations",
+     "what": "Prepare regular applications on behalf of the technopark and its startups to grant programmes of international organizations and development agencies (EU, UN agencies, German, Korean and Japanese development agencies and others) focused on youth, innovation, the green economy and digitalization.",
+     "how": [
+      "Recruit or train 1–2 English-speaking grant managers",
+      "Maintain a calendar of open grant calls and submit at least 2 applications per quarter",
+      "Use grants won to fund the Mobile FabLab, assistive technologies and green technologies directions"
+     ],
+     "result": "An additional funding source with no burden on the state budget.",
+     "term": "Q1 2027",
+     "partners": "Technopark",
+     "q": 1,
+     "metric": {
+      "v": "8+",
+      "l": "grant applications / year"
+     }
+    },
+    {
+     "n": 26,
+     "short": "Made in Namangan Technopark",
+     "title": "Create the “Made in Namangan Technopark” brand and online store for technopark products",
+     "what": "Products made by the technopark and its residents (3D souvenirs, acrylic décor, IoT devices, crafts) are sold under a single brand via marketplaces, social media and the technopark's own online store. The brand also raises public awareness of the technopark's work.",
+     "how": [
+      "Develop a unified brand, packaging and quality standard",
+      "Sign annual corporate gift contracts with public and private organizations",
+      "Return a set share of sales revenue to youth teams"
+     ],
+     "result": "Additional revenue and visibility for the technopark, and a sales channel for young makers.",
+     "term": "Q2 2027",
+     "partners": "Technopark, residents",
+     "q": 2,
+     "metric": {
+      "v": "24/7",
+      "l": "online store and B2B gifts"
+     }
+    }
+   ]
+  },
+  {
+   "id": "gov",
+   "color": "#38BDF8",
+   "icon": "Network",
+   "title": "Governance, Partnership and Transparency",
+   "short": "Governance",
+   "desc": "Valley technopark consortium, IT Park integration, open KPI dashboard, supervisory board.",
+   "roman": "VII",
+   "items": [
+    {
+     "n": 27,
+     "short": "Valley Technopark Consortium",
+     "title": "Form a unified, specialization-based network (consortium) of Fergana Valley youth technoparks",
+     "what": "The Andijan, Fergana and Namangan technoparks each specialize in their strongest field and refer orders to one another. For example, automotive parts orders go to Andijan, while textile, AI and crafts orders go to Namangan. Equipment, mentor and investor databases are shared across the network.",
+     "how": [
+      "Sign a memorandum of cooperation between the technoparks with the support of the Innovative Development Agency",
+      "Create a single online catalogue of each technopark's equipment and specialization",
+      "Host the annual valley forum on a rotating basis"
+     ],
+     "result": "Duplicate equipment purchases are avoided, order volumes grow, and Namangan becomes the leading centre in its fields.",
+     "term": "Q1 2027",
+     "partners": "Andijan, Fergana and Namangan technoparks, Innovative Development Agency",
+     "q": 1,
+     "metric": {
+      "v": "3",
+      "l": "technoparks — one network"
+     }
+    },
+    {
+     "n": 28,
+     "short": "IT Park Integration",
+     "title": "Integrate with IT Park's Namangan branch — a fast track for technopark startups to IT Park residency",
+     "what": "Once digital and AI startups at the technopark mature, simplify document preparation and review so they can access IT Park residency benefits. This also partly addresses the survey finding that mature startups show little interest in staying at the technopark.",
+     "how": [
+      "Sign a joint cooperation programme with IT Park's regional branch",
+      "Establish a procedure for recommending technopark graduates for residency",
+      "Hold a joint Demo Day every quarter"
+     ],
+     "result": "Startups remain in the region at the growth stage and benefit from tax incentives.",
+     "term": "Q1 2027",
+     "partners": "Technopark, IT Park Namangan",
+     "q": 1,
+     "metric": {
+      "v": "Fast-track",
+      "l": "to IT Park residency"
+     }
+    },
+    {
+     "n": 29,
+     "short": "Open KPI Dashboard",
+     "title": "Introduce an open online KPI dashboard of technopark performance",
+     "what": "Indicators such as the number of startups, young people engaged, order volume, equipment utilization, own revenue and prototypes in production are published monthly on an open online dashboard. This fills the gaps the survey flagged as “no verified data provided”.",
+     "how": [
+      "Keep all orders, contracts and projects in a single electronic registry",
+      "Approve 10–15 core KPIs in agreement with the Innovative Development Agency",
+      "Update indicators monthly and report to the khokimiyat quarterly"
+     ],
+     "result": "Transparent technopark operations, trust from investors and partners, and results-based management.",
+     "term": "Q4 2026",
+     "partners": "Technopark",
+     "q": 0,
+     "metric": {
+      "v": "15",
+      "l": "open KPIs"
+     }
+    },
+    {
+     "n": 30,
+     "short": "Supervisory (Advisory) Board",
+     "title": "Establish a Supervisory (Advisory) Board of industry, university and business representatives at the technopark",
+     "what": "The board meets quarterly to review the technopark's directions, partnerships and results, convey enterprises' needs directly and provide strategic recommendations.",
+     "how": [
+      "Include representatives of 3–4 major enterprises, 2–3 universities, IT Park, entrepreneurs and youth on the board",
+      "Establish a procedure for incorporating board recommendations into the technopark's annual work plan",
+      "Attract sponsorship and investment through board members"
+     ],
+     "result": "The technopark's directions continuously adapt to market demand, and its partnership network expands.",
+     "term": "Q4 2026",
+     "partners": "Technopark, regional khokimiyat",
+     "q": 0,
+     "metric": {
+      "v": "4×",
+      "l": "board meetings per year"
+     }
+    }
+   ]
+  }
+ ],
+ "kpi": [
+  {
+   "label": "Startup teams",
+   "now": "12",
+   "y2027": "40",
+   "y2028": "80"
+  },
+  {
+   "label": "Young people engaged (annual)",
+   "now": "50+",
+   "y2027": "1 000",
+   "y2028": "2 500"
+  },
+  {
+   "label": "Mentors",
+   "now": "2",
+   "y2027": "30",
+   "y2028": "50"
+  },
+  {
+   "label": "Partner enterprises (under contract)",
+   "now": "≈5",
+   "y2027": "30",
+   "y2028": "60"
+  },
+  {
+   "label": "Prototypes in production",
+   "now": "2",
+   "y2027": "10",
+   "y2028": "25"
+  },
+  {
+   "label": "IP applications",
+   "now": "—",
+   "y2027": "15",
+   "y2028": "40"
+  },
+  {
+   "label": "Startups with private investment",
+   "now": "—",
+   "y2027": "8",
+   "y2028": "20"
+  },
+  {
+   "label": "Young people with international certificates",
+   "now": "—",
+   "y2027": "300",
+   "y2028": "800"
+  },
+  {
+   "label": "Small businesses digitalized",
+   "now": "—",
+   "y2027": "200",
+   "y2028": "500"
+  },
+  {
+   "label": "Districts covered (Mobile FabLab)",
+   "now": "1",
+   "y2027": "6",
+   "y2028": "all districts"
+  }
+ ]
+}

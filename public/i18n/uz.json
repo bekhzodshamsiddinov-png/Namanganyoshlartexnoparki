@@ -1,0 +1,962 @@
+{
+ "meta": {
+  "lang": "uz",
+  "title": "Namangan yoshlar texnoparki — Innovatsion takliflar"
+ },
+ "ui": {
+  "org": "NAMANGAN YOSHLAR TEXNOPARKI",
+  "orgSub": "Faoliyatni rivojlantirish boʻyicha innovatsion takliflar · 2026",
+  "nav": [
+   "Kirish",
+   "Mundarija",
+   "Holat va yechim",
+   "Sunʼiy intellekt",
+   "Hudud sanoati",
+   "Startaplar",
+   "Kadrlar",
+   "Intellektual mulk",
+   "Oʻz daromadi",
+   "Boshqaruv",
+   "Yoʻl xaritasi",
+   "KPI",
+   "Yakun"
+  ],
+  "coverEyebrow": "Namangan viloyati · Rivojlanish strategiyasi · 2026–2028",
+  "coverTitleA": "Namangan yoshlar texnoparkini",
+  "coverTitleB": "innovatsion ekotizimga",
+  "coverTitleC": "aylantirish",
+  "coverLead": "Uskunalar markazidan — yoshlar startaplari, hududiy korxonalar, OTMlar va investorlarni birlashtiruvchi, oʻzini oʻzi moliyalashtiradigan platformaga.",
+  "coverStats": [
+   [
+    "30",
+    "ta",
+    "innovatsion taklif"
+   ],
+   [
+    "7",
+    "ta",
+    "strategik yoʻnalish"
+   ],
+   [
+    "80",
+    "ta",
+    "startap jamoasi — 2028"
+   ],
+   [
+    "2 500",
+    "",
+    "yosh — yillik qamrov"
+   ]
+  ],
+  "coverChips": [
+   "Sunʼiy intellekt",
+   "Startap ekotizimi",
+   "Hudud sanoati"
+  ],
+  "directionsWord": "YOʻNALISH",
+  "tocEyebrow": "Mundarija",
+  "tocTitleA": "Yetti yoʻnalish —",
+  "tocTitleB": "30 ta oʻlchanadigan taklif",
+  "tocLead": "Har bir taklif mazmuni, amalga oshirish mexanizmi, muddati, hamkorlari va oʻlchanadigan natijasi bilan.",
+  "proposalsCount": "ta taklif",
+  "roadmapCard": "Yoʻl xaritasi va KPI",
+  "roadmapCardDesc": "2026 IV chorak — 2028: muddatlar, masʼullar va maqsadli koʻrsatkichlar.",
+  "stateEyebrow": "Hozirgi holat",
+  "stateTitleA": "Boshlangʻich nuqta va",
+  "stateTitleB": "muammoga aniq yechim",
+  "stateLead": "Texnopark soʻrovnomaga bergan javoblari asosida. Har bir muammo uchun yangi taklif belgilangan.",
+  "baseline": [
+   [
+    "150",
+    "m²",
+    "ishlab chiqarish maydoni"
+   ],
+   [
+    "15",
+    "ta",
+    "texnologik uskuna"
+   ],
+   [
+    "12",
+    "ta",
+    "startap jamoasi"
+   ],
+   [
+    "50+",
+    "",
+    "talaba jalb etilgan"
+   ],
+   [
+    "2",
+    "nafar",
+    "mentor"
+   ],
+   [
+    "10+",
+    "ta",
+    "prototip, 2 tasi ishlab chiqarishda"
+   ]
+  ],
+  "problemsTitle": "Muammo",
+  "solutionTitle": "Taklif etilayotgan yechim",
+  "problems": [
+   [
+    "Korxonalar texnologik muammolari va buyurtmalari reyestri yoʻq",
+    [
+     3
+    ]
+   ],
+   [
+    "Pilot sinov va mustaqil ekspertiza xulosalari yoʻq; 9 ta prototip maket bosqichida",
+    [
+     23,
+     13
+    ]
+   ],
+   [
+    "Texnologiyalar transferi boʻyicha natija koʻrsatilmagan",
+    [
+     22
+    ]
+   ],
+   [
+    "Atigi 2 nafar mentor",
+    [
+     16
+    ]
+   ],
+   [
+    "Rivojlangan startaplarning texnoparkda qolishga qiziqishi past",
+    [
+     11,
+     28
+    ]
+   ],
+   [
+    "Moliyalashtirish faqat ijara va ishlab chiqarishga tayanadi",
+    [
+     24,
+     25,
+     12
+    ]
+   ],
+   [
+    "Qamrov asosan shahar yoshlari bilan cheklangan",
+    [
+     19,
+     20
+    ]
+   ]
+  ],
+  "dirEyebrow": "-YOʻNALISH",
+  "what": "Mazmuni",
+  "how": "Amalga oshirish mexanizmi",
+  "result": "Kutilayotgan natija",
+  "term": "Muddat",
+  "partners": "Hamkorlar",
+  "proposal": "Taklif",
+  "roadmapEyebrow": "Yoʻl xaritasi",
+  "roadmapTitleA": "Ishga tushirish rejasi —",
+  "roadmapTitleB": "30 ta taklif",
+  "roadmapLead": "Toʻq rang — ishga tushirish choragi, och rang — doimiy faoliyat.",
+  "quarters": [
+   "2026 · IV",
+   "2027 · I",
+   "2027 · II",
+   "2027 · III"
+  ],
+  "all": "Barchasi",
+  "kpiEyebrow": "Maqsadli koʻrsatkichlar",
+  "kpiTitleA": "Oʻlchanadigan",
+  "kpiTitleB": "natijalar",
+  "kpiLead": "“Hozir” — texnopark soʻrovnomasi maʼlumotlari; “—” maʼlumot keltirilmaganini bildiradi.",
+  "kpiCols": [
+   "Hozir",
+   "2027",
+   "2028"
+  ],
+  "finalEyebrow": "Yakuniy maqsad",
+  "finalTitleA": "Gʻoyadan",
+  "finalTitleB": "tijoratlashtirishgacha",
+  "finalLead": "2028-yil yakuniga qadar texnopark Fargʻona vodiysida sunʼiy intellekt, toʻqimachilik texnologiyalari va hunarmandchilikni raqamlashtirish boʻyicha yetakchi markazga aylanadi.",
+  "funnel": [
+   [
+    "2 500",
+    "yosh jalb etiladi"
+   ],
+   [
+    "500+",
+    "gʻoya saralanadi"
+   ],
+   [
+    "80",
+    "startap jamoasi"
+   ],
+   [
+    "25",
+    "prototip ishlab chiqarishda"
+   ],
+   [
+    "20",
+    "startap investitsiya oladi"
+   ],
+   [
+    "40",
+    "IP ariza"
+   ]
+  ],
+  "finalTiles": [
+   [
+    "60",
+    "hamkor korxona"
+   ],
+   [
+    "50",
+    "mentor"
+   ],
+   [
+    "800",
+    "xalqaro sertifikat"
+   ],
+   [
+    "500",
+    "raqamlashtirilgan biznes"
+   ]
+  ],
+  "thanks": "Eʼtiboringiz uchun rahmat",
+  "footerOrg": "Namangan yoshlar texnoparki",
+  "footerSub": "Namangan viloyati · 2026",
+  "prev": "Oldingi",
+  "next": "Keyingi",
+  "overview": "Barcha slaydlar",
+  "fullscreen": "Toʻliq ekran",
+  "phases": [
+   [
+    "2026 · IV chorak",
+    "Tezkor start",
+    "KPI paneli, kuzatuv kengashi, mentorlar tarmogʻi, meyker aʼzolik — 8 ta taklif"
+   ],
+   [
+    "2027",
+    "Kengayish",
+    "AI Hub, TextileTech, Startup Studio, Angels klubi — 22 ta taklif"
+   ],
+   [
+    "2028",
+    "Yetakchilik",
+    "Fargʻona vodiysining AI va sanoat innovatsiyalari markazi"
+   ]
+  ]
+ },
+ "directions": [
+  {
+   "id": "ai",
+   "color": "#22D3EE",
+   "icon": "Cpu",
+   "title": "Sunʼiy intellekt va raqamli texnologiyalar",
+   "short": "Sunʼiy intellekt",
+   "desc": "AI xizmatlari, kichik biznesni raqamlashtirish, IoT va maktabda AI taʼlimi.",
+   "roman": "I",
+   "items": [
+    {
+     "n": 1,
+     "short": "Namangan AI Hub",
+     "title": "Texnopark huzurida “Namangan AI Hub” — sunʼiy intellektni amalda joriy etish markazini tashkil etish",
+     "what": "Markaz hududdagi kichik va oʻrta biznes subʼyektlari uchun sunʼiy intellekt asosidagi tayyor yechimlarni “xizmat sifatida” (AI-as-a-Service) taqdim etadi: toʻqimachilik korxonalarida kompyuter koʻrish orqali mato va tikuv nuqsonlarini aniqlash, savdo va xizmat koʻrsatish korxonalari uchun oʻzbek tilidagi chat-botlar va ovozli yordamchilar, hujjat aylanishini avtomatlashtirish, sotuv prognozlash.",
+     "how": [
+      "Talabalar va startap jamoalaridan iborat 3–5 ta “AI-jamoa” shakllantirish, har bir jamoaga mentor biriktirish",
+      "Har chorakda kamida 5 ta korxonada pilot loyiha oʻtkazish, natijalarni “oldin/keyin” koʻrsatkichlari bilan hujjatlashtirish",
+      "Xizmatlar uchun shaffof preyskurant va namunaviy shartnoma ishlab chiqish"
+     ],
+     "result": "Yoshlar uchun real buyurtmalar asosida ish oʻrni, korxonalar uchun xarajatlar kamayishi, texnopark uchun barqaror daromad manbai.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, NamDTU, IT Park",
+     "q": 1,
+     "metric": {
+      "v": "20+",
+      "l": "korxonada pilot AI yechim / yil"
+     }
+    },
+    {
+     "n": 2,
+     "short": "Raqamli xodim dasturi",
+     "title": "“Raqamli xodim” dasturi — kichik biznesni 30 kunda raqamlashtirish xizmatini yoʻlga qoʻyish",
+     "what": "Mahalla va tumanlardagi tadbirkorlar (doʻkonlar, oshxonalar, klinikalar, oʻquv markazlari) uchun Telegram-bot, onlayn buyurtma, CRM, elektron hisobot va ijtimoiy tarmoq marketingini avtomatlashtirishni oʻz ichiga olgan standart paket. Xizmatni texnoparkda tayyorlangan talabalar bajaradi.",
+     "how": [
+      "“Boshlangʻich”, “Standart”, “Premium” paketlari va ularning qatʼiy narxini belgilash",
+      "Hokim yordamchilari va Yoshlar ishlari agentligi hududiy boʻlinmasi orqali tadbirkorlarni jalb qilish",
+      "Har bir bajarilgan loyihani talaba portfoliosiga kiritish"
+     ],
+     "result": "Yiliga kamida 200 ta kichik biznes subʼyektini raqamlashtirish, 100 dan ortiq yoshni frilans daromadiga chiqarish.",
+     "term": "2026 y. IV chorak",
+     "partners": "Texnopark, Yoshlar ishlari agentligi",
+     "q": 0,
+     "metric": {
+      "v": "200+",
+      "l": "kichik biznes raqamlashtiriladi / yil"
+     }
+    },
+    {
+     "n": 3,
+     "short": "Namangan Challenge platformasi",
+     "title": "Hududiy korxonalarning texnologik muammolari boʻyicha “Namangan Challenge” ochiq innovatsiyalar onlayn platformasini yaratish",
+     "what": "Savolnomada korxonalarning texnologik muammolari va buyurtmalari yagona reyestri mavjud emasligi qayd etilgan. Platformada korxonalar oʻz muammosini (masalan, energiya sarfini kamaytirish, chiqindini qayta ishlash, detal importini almashtirish) va mukofot miqdorini joylaydi, yoshlar va startaplar yechim taklif qiladi. Gʻolib yechim texnopark uskunalarida prototiplanadi.",
+     "how": [
+      "Viloyat hokimligi va Savdo-sanoat palatasi hududiy boshqarmasi orqali korxonalarni platformaga ulash",
+      "Muammolar reyestrini har oy yangilab borish va ochiq eʼlon qilish",
+      "Gʻolib yechimlar uchun korxona va texnopark oʻrtasida pilot shartnoma tuzishni majburiy bosqich qilib belgilash"
+     ],
+     "result": "Texnopark uchun doimiy buyurtmalar portfeli, yoshlar uchun real muammolarga asoslangan startap gʻoyalari.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, viloyat hokimligi, Savdo-sanoat palatasi",
+     "q": 1,
+     "metric": {
+      "v": "50+",
+      "l": "korxona muammosi ochiq reyestrda"
+     }
+    },
+    {
+     "n": 4,
+     "short": "IoT va raqamli egizak laboratoriyasi",
+     "title": "Sanoat IoT va “raqamli egizak” (digital twin) laboratoriyasini tashkil etish",
+     "what": "Toʻqimachilik, oziq-ovqat va sovutish omborlari uchun uskunalar holatini, elektr va gaz sarfini, harorat va namlikni masofadan kuzatuvchi arzon datchiklar toʻplamini ishlab chiqish va korxonalarga oʻrnatish.",
+     "how": [
+      "Mavjud 3D printerlar va robototexnika jihozlaridan datchik korpuslari va nazorat bloklarini tayyorlashda foydalanish",
+      "Namangan davlat texnika universiteti bilan qoʻshma laboratoriya maqomini rasmiylashtirish",
+      "Energiya tejash natijalari boʻyicha korxona bilan “tejalgan mablagʻdan ulush” shaklidagi shartnoma modelini joriy etish"
+     ],
+     "result": "Korxonalarda energiya sarfini 10–20 foizgacha kamaytirish, mahalliy ishlab chiqarilgan IoT mahsulot lineykasini shakllantirish.",
+     "term": "2027 y. II chorak",
+     "partners": "Texnopark, NamDTU, korxonalar",
+     "q": 2,
+     "metric": {
+      "v": "10–20%",
+      "l": "korxonalarda energiya tejash"
+     }
+    },
+    {
+     "n": 5,
+     "short": "AI-oʻqituvchi dasturi",
+     "title": "Maktab oʻqituvchilari uchun “AI-oʻqituvchi” qayta tayyorlash dasturini tashkil etish",
+     "what": "Viloyatdagi maktablarning informatika, fizika va texnologiya fanlari oʻqituvchilarini sunʼiy intellekt vositalari, robototexnika va 3D modellashtirish boʻyicha 72 soatlik amaliy kursda oʻqitish. Har bir oʻqituvchi oʻz maktabida texnoparkka yoʻnaltirilgan toʻgarak ochadi va iqtidorli oʻquvchilarni texnoparkka yuboradi.",
+     "how": [
+      "Maktabgacha va maktab taʼlimi hududiy boshqarmasi bilan kelishuv asosida oʻqituvchilarni tanlash",
+      "Kursni bitirganlarga sertifikat berish va uni malaka oshirish soatlari sifatida hisobga olish masalasini ishlab chiqish",
+      "Har yili “Eng yaxshi AI-oʻqituvchi” viloyat tanlovini oʻtkazish"
+     ],
+     "result": "Texnoparkka keladigan yoshlar oqimi maktab darajasidan uzluksiz shakllanadi; har bir tumanda texnoparkning “elchi-oʻqituvchilari” tarmogʻi paydo boʻladi.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, maktab taʼlimi boshqarmasi",
+     "q": 1,
+     "metric": {
+      "v": "150+",
+      "l": "oʻqituvchi qayta tayyorlanadi"
+     }
+    }
+   ]
+  },
+  {
+   "id": "industry",
+   "color": "#34D399",
+   "icon": "Factory",
+   "title": "Hudud sanoatiga ixtisoslashuv",
+   "short": "Hudud sanoati",
+   "desc": "Toʻqimachilik, agrotexnologiya, hunarmandchilik, yashil va assistiv texnologiyalar.",
+   "roman": "II",
+   "items": [
+    {
+     "n": 6,
+     "short": "TextileTech Lab",
+     "title": "Toʻqimachilik va yengil sanoat uchun “TextileTech Lab” yoʻnalishini ochish",
+     "what": "Namangan viloyatining asosiy sanoat tarmogʻi boʻlgan toʻqimachilik va tikuvchilik uchun raqamli kiyim dizayni (3D virtual lekalo va namuna), lazerli bichish, kashta va markirovka, “aqlli” matolar boʻyicha prototiplash xizmatlari.",
+     "how": [
+      "Textgroup va viloyatdagi boshqa toʻqimachilik klasterlari bilan hamkorlik memorandumlari imzolash",
+      "Yosh dizaynerlar uchun “Design Sprint” — 2 haftalik buyurtma asosida kolleksiya yaratish tanlovini oʻtkazish",
+      "Korxonalarga eksport talablariga mos mahsulot yorliqlari va QR-kodli kuzatuvchanlik tizimini joriy etishda koʻmaklashish"
+     ],
+     "result": "Tarmoq korxonalari uchun yangi mahsulot ishlab chiqish muddatini qisqartirish, yosh dizaynerlar va texnologlar uchun ish oʻrinlari.",
+     "term": "2027 y. II chorak",
+     "partners": "Texnopark, toʻqimachilik korxonalari",
+     "q": 2,
+     "metric": {
+      "v": "10+",
+      "l": "toʻqimachilik korxonasi bilan hamkorlik"
+     }
+    },
+    {
+     "n": 7,
+     "short": "AgroTech poligoni",
+     "title": "“Namangan AgroTech poligoni” — qishloq xoʻjaligi texnologiyalari sinov maydonini tashkil etish",
+     "what": "Fermer xoʻjaliklari va bogʻdorchilik klasterlari bilan hamkorlikda aqlli sugʻorish, tuproq namligi datchiklari, dronlar orqali ekinlar holatini kuzatish, meva-sabzavot saqlash omborlarini monitoring qilish yechimlarini real dalada sinovdan oʻtkazish. Namanganning gulchilik va bogʻdorchilik anʼanalari hisobga olinadi.",
+     "how": [
+      "1–2 ta fermer xoʻjaligi bilan tajriba maydoni boʻyicha shartnoma tuzish",
+      "Har bir sinov uchun bayonnoma va natijalar hisobotini yuritish — bu pilot sinov va validatsiya tizimini ham shakllantiradi",
+      "Muvaffaqiyatli yechimlarni fermerlarga lizing yoki obuna asosida yetkazib berish modelini ishlab chiqish"
+     ],
+     "result": "Prototiplarning real sharoitda tasdiqlangan sinov natijalari, agro-startaplar uchun birinchi mijozlar.",
+     "term": "2027 y. II chorak",
+     "partners": "Texnopark, fermer xoʻjaliklari",
+     "q": 2,
+     "metric": {
+      "v": "10+",
+      "l": "yechim dalada sinovdan oʻtadi"
+     }
+    },
+    {
+     "n": 8,
+     "short": "CraftTech yoʻnalishi",
+     "title": "Hunarmandchilik va zargarlikni raqamlashtirish — “CraftTech” yoʻnalishini tashkil etish",
+     "what": "Chust pichoqlari, doʻppichilik, kulolchilik, yogʻoch oʻymakorligi kabi hududiy hunarmandchilik mahsulotlarini 3D skanerlash, lazerli gravirovka va zargarlik uskunalari yordamida zamonaviy dizayn bilan boyitish. Montaji yakunlanayotgan 6 ta zargarlik uskunasi uchun oldindan buyurtmachilar va yosh ustachilar jamoasini tayyorlash.",
+     "how": [
+      "Hunarmandlar uyushmasi bilan hamkorlikda “ustoz–shogird + raqamli dizayn” dasturini yoʻlga qoʻyish",
+      "Mahsulotlarni xalqaro elektron savdo maydonchalari orqali eksport qilish uchun fotosurat, tavsif va toʻlov tizimini ulashda koʻmak berish",
+      "Zargarlik uchun 3D printerda mum modellar tayyorlash xizmatini ochish"
+     ],
+     "result": "Hudud brendini tashqi bozorga olib chiqish, xotin-qizlar va yoshlar uchun uyda bajariladigan daromadli ish oʻrinlari.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, hunarmandlar uyushmasi",
+     "q": 1,
+     "metric": {
+      "v": "100+",
+      "l": "hunarmand va yosh usta"
+     }
+    },
+    {
+     "n": 9,
+     "short": "Yashil texnologiyalar",
+     "title": "“Yashil texnologiyalar” — plastmassa chiqindilarini qayta ishlab, 3D printer filamenti va tayyor mahsulotga aylantirish",
+     "what": "Mavjud termoplast uskunasi va 3D printerlar asosida mahallalar, maktablar va korxonalardan yigʻilgan plastik chiqindilarni maydalash, filament va granula holiga keltirish hamda ulardan qurilish plitkasi, mebel furniturasi, oʻquv qurollari ishlab chiqarish.",
+     "how": [
+      "Mahallalarda “Plastik topshir — bonus ol” aksiyasini yoshlar yetakchilari orqali oʻtkazish",
+      "Chiqindilarni qayta ishlash boʻyicha hokimlik va sanitar tozalash korxonalari bilan hamkorlik shartnomasi tuzish",
+      "Texnoparkning 3D printerlari uchun sarf materialini oʻzida ishlab chiqarish orqali xarajatlarni kamaytirish"
+     ],
+     "result": "Sarf materiallari xarajatining kamayishi, ekologik startaplar uchun tayyor biznes modeli, hudud ekologiyasiga hissa.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, hokimlik, mahallalar",
+     "q": 1,
+     "metric": {
+      "v": "5 t",
+      "l": "plastik chiqindi qayta ishlanadi / yil"
+     }
+    },
+    {
+     "n": 10,
+     "short": "Assistiv texnologiyalar",
+     "title": "Nogironligi boʻlgan shaxslar uchun assistiv texnologiyalar (3D protez, moslashtirilgan jihozlar) yoʻnalishini ochish",
+     "what": "3D printerlar yordamida qoʻl protezlari, ortezlar, koʻzi ojizlar uchun taktil oʻquv qurollari va harakatlanish uchun moslashtirilgan jihozlarni ishlab chiqish. Yoʻnalish ijtimoiy ahamiyatga ega boʻlib, xalqaro grantlar va homiylarni jalb qilish uchun kuchli asos boʻladi.",
+     "how": [
+      "Tibbiyot muassasalari va ijtimoiy himoya organlari bilan hamkorlikda ehtiyojmandlar roʻyxatini shakllantirish",
+      "Har bir mahsulot uchun shifokor xulosasini olish tartibini belgilash",
+      "Ijtimoiy startaplar uchun alohida grant va homiylik jamgʻarmasini shakllantirish"
+     ],
+     "result": "Import protezlarga nisbatan bir necha barobar arzon mahalliy yechim, texnoparkning ijtimoiy nufuzi oshishi.",
+     "term": "2027 y. III chorak",
+     "partners": "Texnopark, tibbiyot muassasalari",
+     "q": 3,
+     "metric": {
+      "v": "50+",
+      "l": "ehtiyojmandga moslashtirilgan yechim"
+     }
+    }
+   ]
+  },
+  {
+   "id": "startup",
+   "color": "#A78BFA",
+   "icon": "Rocket",
+   "title": "Startap ekotizimi va investitsiya",
+   "short": "Startap va investitsiya",
+   "desc": "Startup Studio, biznes-farishtalar, birinchi buyurtma, korporativ akseleratorlar.",
+   "roman": "III",
+   "items": [
+    {
+     "n": 11,
+     "short": "Startup Studio modeli",
+     "title": "Texnoparkni “Startup Studio” (venchur quruvchi) modeliga oʻtkazish",
+     "what": "Texnopark faqat gʻoyalarni qabul qiluvchi emas, balki bozor muammosini oʻzi aniqlab, unga jamoa yigʻadigan, prototip, huquqiy roʻyxat va birinchi mijozgacha olib boradigan tashkilotga aylanadi. Evaziga qonunchilikda belgilangan tartibda startap daromadidan yoki ulushidan kelishilgan qism (royalti yoki ulush) texnoparkka qaytadi.",
+     "how": [
+      "Mazkur modelning huquqiy asosini (royalti shartnomasi, ulush olish yoki boshqa mexanizm) Innovatsion rivojlanish agentligi bilan kelishib ishlab chiqish",
+      "Har yili “Namangan Challenge” platformasidagi eng talabgir 5 ta muammo asosida 5 ta studiya-startapni ishga tushirish",
+      "Har bir studiya-startapga “asoschi-mentor” sifatida tajribali tadbirkorni biriktirish"
+     ],
+     "result": "Gʻoya bosqichida qolib ketayotgan loyihalar oʻrniga bozorga chiqadigan kompaniyalar, texnopark uchun uzoq muddatli daromad.",
+     "term": "2027 y. II chorak",
+     "partners": "Texnopark, Innovatsion rivojlanish agentligi",
+     "q": 2,
+     "metric": {
+      "v": "5",
+      "l": "studiya-startap / yil"
+     }
+    },
+    {
+     "n": 12,
+     "short": "Namangan Angels klubi",
+     "title": "“Namangan Angels” — mahalliy biznes-farishtalar klubini tashkil etish",
+     "what": "Viloyatdagi muvaffaqiyatli tadbirkorlarni startaplarga kichik investitsiya kirituvchi klubga birlashtirish. Har oyda texnoparkda yopiq pitch-sessiya oʻtkaziladi, klub aʼzolari birgalikda (sindikat) investitsiya kiritadi.",
+     "how": [
+      "Birinchi bosqichda 15–20 nafar tadbirkorni klubga jalb qilish",
+      "Investitsiya uchun namunaviy hujjatlar (kelishuv, ulush taqsimoti, konvertatsiyalanadigan qarz) toʻplamini tayyorlash",
+      "UzVC va boshqa venchur fondlari bilan hamkorlikda eng yaxshi loyihalarni keyingi bosqich investitsiyasiga yoʻnaltirish"
+     ],
+     "result": "Davlat grantlaridan tashqari xususiy kapitalga yoʻl, yiliga kamida 8–10 ta startapga investitsiya.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, tadbirkorlar, UzVC",
+     "q": 1,
+     "metric": {
+      "v": "8–10",
+      "l": "startapga investitsiya / yil"
+     }
+    },
+    {
+     "n": 13,
+     "short": "Birinchi buyurtma mexanizmi",
+     "title": "“Birinchi buyurtma” mexanizmi — davlat tashkilotlari tomonidan startap mahsulotlarini pilot xarid qilishni joriy etish",
+     "what": "Startaplar uchun eng katta toʻsiq — birinchi mijoz. Viloyat hokimligi, tuman hokimliklari, kommunal xizmatlar, maktab va shifoxonalar har yili texnopark startaplaridan kamida 5–10 ta pilot buyurtma beradi (masalan, aqlli yoritish, navbat boshqaruv tizimi, elektron hisob yechimlari).",
+     "how": [
+      "Pilot xaridlar uchun ajratiladigan limit va tanlov tartibini davlat xaridlari toʻgʻrisidagi qonunchilik doirasida belgilash",
+      "Har bir pilot yakunida tashkilot tomonidan rasmiy xulosa (tavsiyanoma) berish",
+      "Ijobiy xulosa olgan yechimlarni boshqa tumanlarga kengaytirish"
+     ],
+     "result": "Startaplar uchun real portfolio va daromad, davlat xizmatlari sifatining oshishi.",
+     "term": "2027 y. II chorak",
+     "partners": "Viloyat va tuman hokimliklari",
+     "q": 2,
+     "metric": {
+      "v": "5–10",
+      "l": "davlat pilot buyurtmasi / yil"
+     }
+    },
+    {
+     "n": 14,
+     "short": "Korporativ akseleratorlar",
+     "title": "Yirik korxonalar bilan “Korporativ akselerator” dasturlarini yoʻlga qoʻyish",
+     "what": "Har bir yirik korxona (Nambiotest, Textgroup, Mexmash va boshqalar) yiliga bir marta oʻz ehtiyojiga mos 3 oylik akseleratsiya oqimini moliyalashtiradi. Korxona muammoni qoʻyadi, texnopark jamoa va metodikani taʼminlaydi, gʻolib jamoalar korxona bilan shartnoma tuzadi.",
+     "how": [
+      "Har bir korxona bilan alohida hamkorlik dasturi va byudjetini kelishish",
+      "Akselerator yakunida korxona rahbariyati ishtirokida Demo Day oʻtkazish",
+      "Korxonaga yechimni ichki joriy etish yoki startapni sotib olish (M&A) imkoniyatini berish"
+     ],
+     "result": "Korxonalarning innovatsiyaga xarajatlari texnopark orqali oʻtadi; yoshlar uchun toʻgʻridan-toʻgʻri sanoatga yoʻl.",
+     "term": "2027 y. II chorak",
+     "partners": "Texnopark, yirik korxonalar",
+     "q": 2,
+     "metric": {
+      "v": "3+",
+      "l": "korporativ akselerator oqimi / yil"
+     }
+    },
+    {
+     "n": 15,
+     "short": "Hack Week va vodiy forumi",
+     "title": "Har chorakda “Namangan Hack Week” xakatonlari va yiliga bir marta “Fergana Valley Startup Week” forumini oʻtkazish",
+     "what": "Har chorak alohida mavzuga bagʻishlanadi (AI, AgroTech, TextileTech, GreenTech). Yillik forumga Andijon, Fargʻona va Namangan texnoparklari, investorlar, xorijiy ekspertlar taklif etiladi va forum Namanganni vodiyning startap markaziga aylantiradi.",
+     "how": [
+      "Xakatonlar uchun mukofot fondini homiy korxonalar hisobidan shakllantirish",
+      "Gʻolib jamoalarni toʻgʻridan-toʻgʻri InnoX yoki Startup Studio dasturiga qabul qilish",
+      "Forumni onlayn translyatsiya qilish va natijalarni ochiq hisobot sifatida eʼlon qilish"
+     ],
+     "result": "Yiliga 500 dan ortiq yoshni jalb etish, yangi jamoalar va investorlar oqimi.",
+     "term": "Har chorakda / 2027 y. III chorak",
+     "partners": "Texnopark, homiy korxonalar",
+     "q": 0,
+     "metric": {
+      "v": "500+",
+      "l": "ishtirokchi / yil"
+     }
+    },
+    {
+     "n": 16,
+     "short": "Namangan Global Mentors",
+     "title": "“Namangan Global Mentors” — xorijdagi va respublikadagi namanganlik mutaxassislarni mentorlikka jalb etish",
+     "what": "Hozirda texnoparkda atigi 2 nafar mentor bor. Xorijiy kompaniyalarda ishlayotgan, ilm-fan va biznesda muvaffaqiyatga erishgan namanganlik vatandoshlarni onlayn mentorlik tarmogʻiga birlashtirish.",
+     "how": [
+      "Mentor bazasini shakllantirish va har bir startapga oyiga kamida 2 marta onlayn sessiya belgilash",
+      "Mentorlar uchun nomoddiy ragʻbat: “Faxriy mentor” maqomi, hokimlik tashakkurnomasi, tadbirlarda eʼtirof",
+      "Yiliga bir marta mentorlarni forum doirasida Namanganga taklif etish"
+     ],
+     "result": "Mentorlar sonini 2 nafardan kamida 30 nafarga yetkazish, startaplarga xalqaro tajriba va aloqalar.",
+     "term": "2026 y. IV chorak",
+     "partners": "Texnopark, vatandoshlar",
+     "q": 0,
+     "metric": {
+      "v": "2 → 30",
+      "l": "mentorlar soni"
+     }
+    }
+   ]
+  },
+  {
+   "id": "talent",
+   "color": "#F472B6",
+   "icon": "GraduationCap",
+   "title": "Kadrlar tayyorlash va yoshlar qamrovi",
+   "short": "Kadrlar va yoshlar",
+   "desc": "Fellowship, xalqaro sertifikatlar, Mobil FabLab, Women in Tech, startap — bitiruv ishi.",
+   "roman": "IV",
+   "items": [
+    {
+     "n": 17,
+     "short": "Technopark Fellowship",
+     "title": "“Technopark Fellowship” — 6 oylik pullik stajirovka dasturini joriy etish",
+     "what": "OTMlarning iqtidorli bitiruvchilari va yuqori kurs talabalari korxona buyurtmasi asosida texnoparkda 6 oy davomida real loyiha ustida ishlaydi. Stipendiya korxona va texnopark tomonidan birgalikda toʻlanadi, yakunda eng yaxshilari korxonaga ishga qabul qilinadi.",
+     "how": [
+      "Har bir oqimga 20–30 nafar yoshni ochiq tanlov asosida qabul qilish",
+      "Stipendiya xarajatining kamida yarmini buyurtmachi korxona qoplashini shart qilib belgilash",
+      "Dastur natijasini OTMlarda malakaviy amaliyot yoki bitiruv ishi sifatida tan olish boʻyicha kelishuv tuzish"
+     ],
+     "result": "Bitiruvchilarning bandligi va korxonalar uchun tayyor kadrlar, texnopark uchun korporativ hamkorlar tarmogʻi.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, OTMlar, korxonalar",
+     "q": 1,
+     "metric": {
+      "v": "20–30",
+      "l": "fellow har bir oqimda"
+     }
+    },
+    {
+     "n": 18,
+     "short": "Xalqaro sertifikatlash markazi",
+     "title": "Texnopark negizida xalqaro sertifikatlash va imtihon markazini tashkil etish",
+     "what": "3D modellashtirish, muhandislik dizayni, tarmoq texnologiyalari, bulutli xizmatlar va dasturlash boʻyicha xalqaro eʼtirofga ega sertifikat imtihonlarini Namanganning oʻzida topshirish imkoniyatini yaratish. Hozir yoshlar buning uchun Toshkentga borishga majbur.",
+     "how": [
+      "Xalqaro imtihon provayderlari bilan rasmiy imtihon markazi maqomini olish boʻyicha ariza berish",
+      "Imtihonga tayyorlov kurslarini texnopark uskunalari bazasida pullik asosda tashkil etish",
+      "“One Million Coders” va IT Park oʻquv dasturlari bitiruvchilarini sertifikatlashga yoʻnaltirish"
+     ],
+     "result": "Yoshlarning xalqaro mehnat bozorida raqobatbardoshligi, texnopark uchun barqaror xizmat daromadi.",
+     "term": "2027 y. III chorak",
+     "partners": "Texnopark, IT Park",
+     "q": 3,
+     "metric": {
+      "v": "300+",
+      "l": "xalqaro sertifikat / yil"
+     }
+    },
+    {
+     "n": 19,
+     "short": "Mobil FabLab",
+     "title": "Tumanlar uchun “Mobil FabLab” — koʻchma texnopark laboratoriyasini ishga tushirish",
+     "what": "Maxsus jihozlangan avtomobilda 3D printer, robototexnika toʻplamlari, noutbuklar va VR koʻzoynaklar joylashtiriladi. Mobil laboratoriya jadval asosida Chust, Pop, Kosonsoy, Uchqoʻrgʻon, Davlatobod va boshqa tumanlardagi maktab va kollejlarga borib, amaliy mashgʻulotlar va gʻoyalar saralashini oʻtkazadi.",
+     "how": [
+      "Mobil laboratoriyani xalqaro grant yoki homiy korxona hisobidan jihozlash",
+      "Har bir tumanda oyiga kamida 2 marta tashrif jadvalini tasdiqlash",
+      "Tumanlardan aniqlangan iqtidorli yoshlarni texnoparkning asosiy dasturlariga qabul qilish"
+     ],
+     "result": "Texnopark qamrovini shahardan butun viloyatga kengaytirish, qishloq yoshlari uchun teng imkoniyat.",
+     "term": "2027 y. III chorak",
+     "partners": "Texnopark, donor va homiylar",
+     "q": 3,
+     "metric": {
+      "v": "2×",
+      "l": "har tumanga oyiga tashrif"
+     }
+    },
+    {
+     "n": 20,
+     "short": "Women in Tech Namangan",
+     "title": "Qizlar va ayollar uchun “Women in Tech Namangan” dasturini tashkil etish",
+     "what": "Qizlarni dasturlash, raqamli dizayn, sunʼiy intellekt va tadbirkorlikka jalb etish boʻyicha alohida oqim: muvaffaqiyatli ayol tadbirkorlar mentorligi, uyda turib masofadan ishlash koʻnikmalari, ayollar asos solgan startaplar uchun alohida tanlov.",
+     "how": [
+      "Xotin-qizlar qoʻmitalari va mahalla faollari bilan hamkorlikda ishtirokchilarni jalb qilish",
+      "Mashgʻulotlarni qizlar uchun qulay vaqt va formatda (onlayn/oflayn aralash) tashkil etish",
+      "Xalqaro tashkilotlarning gender tengligi grant dasturlariga qoʻshma ariza berish"
+     ],
+     "result": "Texnopark ishtirokchilari orasida qizlar ulushini kamida 30 foizga yetkazish.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, xotin-qizlar qoʻmitalari",
+     "q": 1,
+     "metric": {
+      "v": "30%",
+      "l": "qizlar ulushi"
+     }
+    },
+    {
+     "n": 21,
+     "short": "Startap — bitiruv ishi",
+     "title": "“Startap — bitiruv ishi” amaliyotini Namangandagi OTMlarda keng joriy etish",
+     "what": "Namangan davlat universiteti, Namangan davlat texnika universiteti va boshqa OTMlar bilan hamkorlikda talabalarning texnoparkda yaratgan startap loyihasi va prototipini bitiruv malakaviy ishi sifatida himoya qilish tizimini yoʻlga qoʻyish.",
+     "how": [
+      "OTMlar bilan himoya mezonlari va tartibini oʻz ichiga olgan qoʻshma nizom ishlab chiqish",
+      "Himoya komissiyasi tarkibiga texnopark vakili va tadbirkorlarni kiritish",
+      "Startap bilan himoya qilgan talabalarni Startup Studio dasturiga ustuvor qabul qilish"
+     ],
+     "result": "Ilmiy ishlar “javonda” qolmay, amaliy mahsulotga aylanadi; OTMlarning startap KPI koʻrsatkichlari bajariladi.",
+     "term": "2026–2027 oʻquv yili",
+     "partners": "OTMlar, texnopark",
+     "q": 0,
+     "metric": {
+      "v": "4",
+      "l": "OTM bilan qoʻshma nizom"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ip",
+   "color": "#FBBF24",
+   "icon": "ShieldCheck",
+   "title": "Intellektual mulk va texnologiyalar transferi",
+   "short": "Intellektual mulk",
+   "desc": "IP va transfer ofisi, mustaqil texnik ekspertiza va TRL baholash.",
+   "roman": "V",
+   "items": [
+    {
+     "n": 22,
+     "short": "Intellektual mulk va transfer ofisi",
+     "title": "Texnopark huzurida intellektual mulk va texnologiyalar transferi ofisini tashkil etish",
+     "what": "Savolnomada texnologiyalar transferi boʻyicha natijalar koʻrsatilmagan. Ofis yoshlar va olimlarga ixtiro, foydali model, sanoat namunasi va tovar belgisini roʻyxatdan oʻtkazishda bepul maslahat beradi, ishlanmalarni korxonalarga litsenziya asosida berishni tashkil etadi.",
+     "how": [
+      "Intellektual mulk sohasidagi vakolatli organlar bilan hamkorlik memorandumini imzolash",
+      "Texnoparkda yaratilgan har bir prototip uchun huquqiy muhofaza imkoniyatini baholashni majburiy bosqich qilish",
+      "Litsenziya daromadini muallif, texnopark va OTM oʻrtasida shaffof taqsimlash tartibini belgilash"
+     ],
+     "result": "Yiliga kamida 15 ta intellektual mulk obʼyekti uchun ariza, litsenziyalardan qoʻshimcha daromad.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, vakolatli organlar",
+     "q": 1,
+     "metric": {
+      "v": "15+",
+      "l": "IP ariza / yil"
+     }
+    },
+    {
+     "n": 23,
+     "short": "Ekspertiza va validatsiya kengashi",
+     "title": "Prototiplar uchun mustaqil “texnik ekspertiza va validatsiya kengashi”ni tuzish",
+     "what": "Savolnomada pilot sinovlar bayonnomalari va mustaqil ekspertiza xulosalari mavjud emasligi koʻrsatilgan. Kengash tarkibiga OTM professorlari, sanoat muhandislari va investorlar kiritilib, har bir prototipni texnologik tayyorlik darajasi (TRL) boʻyicha baholaydi.",
+     "how": [
+      "Baholashning yagona shakli va TRL shkalasi asosidagi mezonlarni tasdiqlash",
+      "Maket bosqichidagi 9 ta prototipni birinchi navbatda ekspertizadan oʻtkazish va har biri uchun “yoʻl xaritasi” tuzish",
+      "Ijobiy xulosa olgan loyihalarni investorlar va korxonalarga taqdim etish"
+     ],
+     "result": "Prototiplarning ishlab chiqarishga joriy etilishi 2 tadan kamida 10 taga yetadi; investorlar uchun ishonchli maʼlumot bazasi.",
+     "term": "2026 y. IV chorak",
+     "partners": "Texnopark, OTMlar, korxonalar",
+     "q": 0,
+     "metric": {
+      "v": "2 → 10",
+      "l": "ishlab chiqarishga joriy prototiplar"
+     }
+    }
+   ]
+  },
+  {
+   "id": "revenue",
+   "color": "#FB923C",
+   "icon": "Wallet",
+   "title": "Oʻz daromadini oshirish modeli",
+   "short": "Oʻz daromadi",
+   "desc": "Meyker aʼzolik, xalqaro grantlar loyiha ofisi, texnopark brendi va onlayn doʻkon.",
+   "roman": "VI",
+   "items": [
+    {
+     "n": 24,
+     "short": "Meyker aʼzolik va onlayn bronlash",
+     "title": "Uskunalardan “meyker aʼzolik” va soatbay foydalanish tizimini onlayn bronlash bilan joriy etish",
+     "what": "Yoshlar, hunarmandlar va kichik tadbirkorlar oylik aʼzolik yoki soatbay toʻlov asosida 3D printer, lazer va boshqa uskunalardan foydalanadi. Uskunalarning bandligi onlayn jadval orqali boshqariladi, bu esa yuklanish darajasini ham aniq hisoblash imkonini beradi.",
+     "how": [
+      "Talabalar, startaplar va tijorat mijozlari uchun tabaqalashtirilgan narxlarni belgilash",
+      "Uskunalardan foydalanishdan oldin xavfsizlik boʻyicha majburiy qisqa oʻquv va guvohnoma tizimini joriy etish",
+      "Har bir uskuna boʻyicha oylik yuklanish hisobotini yuritish"
+     ],
+     "result": "Uskunalar yuklanishining oshishi, kichik lekin barqaror daromad oqimi, xavfsizlikning tizimli taʼminlanishi.",
+     "term": "2026 y. IV chorak",
+     "partners": "Texnopark",
+     "q": 0,
+     "metric": {
+      "v": "70%+",
+      "l": "uskunalar yuklanishi"
+     }
+    },
+    {
+     "n": 25,
+     "short": "Xalqaro grantlar loyiha ofisi",
+     "title": "Xalqaro grantlar va donor tashkilotlar bilan ishlash uchun “Loyiha ofisi”ni tashkil etish",
+     "what": "Texnopark va uning startaplari nomidan xalqaro tashkilotlar va rivojlanish agentliklarining (YEI, BMT tizimi tashkilotlari, Germaniya, Koreya, Yaponiya rivojlanish agentliklari va boshqalar) yoshlar, innovatsiya, yashil iqtisodiyot va raqamlashtirishga oid grant dasturlariga muntazam ariza tayyorlash.",
+     "how": [
+      "Ingliz tilini biladigan 1–2 nafar grant menejerini jalb qilish yoki oʻqitish",
+      "Ochiq grant tanlovlari kalendarini yuritish va har chorakda kamida 2 ta ariza topshirish",
+      "Gʻolib grantlar hisobidan Mobil FabLab, assistiv texnologiyalar va yashil texnologiyalar yoʻnalishlarini moliyalashtirish"
+     ],
+     "result": "Davlat byudjetiga yuk tushirmasdan qoʻshimcha moliyalashtirish manbai.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark",
+     "q": 1,
+     "metric": {
+      "v": "8+",
+      "l": "grant arizasi / yil"
+     }
+    },
+    {
+     "n": 26,
+     "short": "Made in Namangan Technopark brendi",
+     "title": "Texnopark mahsulotlari uchun “Made in Namangan Technopark” brendi va onlayn doʻkonini yaratish",
+     "what": "Texnopark va uning rezidentlari ishlab chiqargan mahsulotlar (3D suvenirlar, akril bezaklar, IoT qurilmalar, hunarmandchilik mahsulotlari) yagona brend ostida marketpleyslar, ijtimoiy tarmoqlar va oʻz onlayn doʻkoni orqali sotiladi. Brend texnopark faoliyatini ommaga tanitadi.",
+     "how": [
+      "Yagona brend, qadoq va sifat standartini ishlab chiqish",
+      "Korporativ sovgʻalar boʻyicha davlat va xususiy tashkilotlar bilan yillik shartnomalar tuzish",
+      "Savdodan tushgan daromadning belgilangan qismini yoshlar jamoalariga qaytarish"
+     ],
+     "result": "Texnopark uchun qoʻshimcha daromad va taniqlilik, yosh ishlab chiqaruvchilar uchun sotuv kanali.",
+     "term": "2027 y. II chorak",
+     "partners": "Texnopark, rezidentlar",
+     "q": 2,
+     "metric": {
+      "v": "24/7",
+      "l": "onlayn doʻkon va B2B sovgʻalar"
+     }
+    }
+   ]
+  },
+  {
+   "id": "gov",
+   "color": "#38BDF8",
+   "icon": "Network",
+   "title": "Boshqaruv, hamkorlik va shaffoflik",
+   "short": "Boshqaruv",
+   "desc": "Vodiy texnoparklari konsorsiumi, IT Park integratsiyasi, ochiq KPI paneli, kuzatuv kengashi.",
+   "roman": "VII",
+   "items": [
+    {
+     "n": 27,
+     "short": "Vodiy texnoparklari konsorsiumi",
+     "title": "Fargʻona vodiysi yoshlar texnoparklarining ixtisoslashuv asosidagi yagona tarmogʻini (konsorsiumini) tuzish",
+     "what": "Andijon, Fargʻona va Namangan texnoparklari har biri oʻz ustun yoʻnalishiga ixtisoslashadi va bir-biriga buyurtmalarni oʻzaro uzatadi. Masalan, avtomobil detallari boʻyicha buyurtmalar Andijonga, toʻqimachilik, AI va hunarmandchilik boʻyicha buyurtmalar Namanganga yoʻnaltiriladi. Tarmoq doirasida uskunalar, mentorlar va investorlar bazasi umumiy boʻladi.",
+     "how": [
+      "Texnoparklar oʻrtasida hamkorlik memorandumini Innovatsion rivojlanish agentligi hamkorligida imzolash",
+      "Har bir texnopark uskunalari va ixtisoslashuvining yagona onlayn katalogini yaratish",
+      "Yillik vodiy forumini navbatma-navbat oʻtkazish"
+     ],
+     "result": "Uskunalarning takror xarid qilinishining oldi olinadi, buyurtmalar hajmi oshadi, Namangan oʻz yoʻnalishlari boʻyicha yetakchi markazga aylanadi.",
+     "term": "2027 y. I chorak",
+     "partners": "Andijon, Fargʻona, Namangan texnoparklari, IRA",
+     "q": 1,
+     "metric": {
+      "v": "3",
+      "l": "texnopark — yagona tarmoq"
+     }
+    },
+    {
+     "n": 28,
+     "short": "IT Park bilan integratsiya",
+     "title": "IT Park Namangan filiali bilan integratsiya — texnopark startaplarini IT Park rezidentligiga “tezkor yoʻlak” orqali oʻtkazish",
+     "what": "Texnoparkda raqamli va AI yoʻnalishidagi startaplar yetarli darajaga yetganda, IT Park rezidentligi imtiyozlaridan foydalanishi uchun hujjatlar tayyorlash va koʻrib chiqish jarayonini soddalashtirish. Shu orqali savolnomada qayd etilgan “rivojlangan startaplarning texnoparkda qolishga qiziqishi pastligi” muammosi ham qisman hal etiladi.",
+     "how": [
+      "IT Park hududiy filiali bilan qoʻshma hamkorlik dasturini imzolash",
+      "Texnopark bitiruvchilari uchun rezidentlikka tavsiya berish tartibini belgilash",
+      "Har chorakda qoʻshma Demo Day oʻtkazish"
+     ],
+     "result": "Startaplar oʻsish bosqichida ham hududda qoladi va soliq imtiyozlaridan foydalanadi.",
+     "term": "2027 y. I chorak",
+     "partners": "Texnopark, IT Park Namangan",
+     "q": 1,
+     "metric": {
+      "v": "Fast-track",
+      "l": "IT Park rezidentligiga yoʻlak"
+     }
+    },
+    {
+     "n": 29,
+     "short": "Ochiq KPI paneli",
+     "title": "Texnopark faoliyatining ochiq onlayn KPI panelini (dashboard) joriy etish",
+     "what": "Startaplar soni, jalb etilgan yoshlar, buyurtmalar hajmi, uskunalar yuklanishi, oʻz daromadi, ishlab chiqarishga joriy etilgan prototiplar kabi koʻrsatkichlar har oy ochiq onlayn panelda eʼlon qilinadi. Bu savolnomada “tasdiqlangan maʼlumot keltirilmagan” deb qayd etilgan boʻshliqlarni toʻldiradi.",
+     "how": [
+      "Barcha buyurtma, shartnoma va loyihalarni yagona elektron reyestrda yuritish",
+      "Asosiy 10–15 ta KPI koʻrsatkichini Innovatsion rivojlanish agentligi bilan kelishib tasdiqlash",
+      "Koʻrsatkichlarni har oy yangilash va har chorakda hokimlikka hisobot berish"
+     ],
+     "result": "Texnopark faoliyatining shaffofligi, investorlar va hamkorlar ishonchi, natijaga asoslangan boshqaruv.",
+     "term": "2026 y. IV chorak",
+     "partners": "Texnopark",
+     "q": 0,
+     "metric": {
+      "v": "15",
+      "l": "ochiq KPI koʻrsatkichi"
+     }
+    },
+    {
+     "n": 30,
+     "short": "Kuzatuv (Maslahat) kengashi",
+     "title": "Texnopark huzurida sanoat, OTM va biznes vakillaridan iborat Kuzatuv (Maslahat) kengashini tuzish",
+     "what": "Kengash har chorakda yigʻilib, texnoparkning yoʻnalishlari, hamkorliklari va natijalarini koʻrib chiqadi, korxonalar ehtiyojini bevosita yetkazadi va strategik tavsiyalar beradi.",
+     "how": [
+      "Kengash tarkibiga 3–4 ta yirik korxona, 2–3 ta OTM, IT Park, tadbirkorlar va yoshlar vakillarini kiritish",
+      "Kengash tavsiyalarini texnoparkning yillik ish rejasiga kiritish tartibini belgilash",
+      "Kengash aʼzolari orqali homiylik va investitsiya manbalarini jalb etish"
+     ],
+     "result": "Texnopark yoʻnalishlarining bozor talabiga doimiy moslashuvi, hamkorlik doirasining kengayishi.",
+     "term": "2026 y. IV chorak",
+     "partners": "Texnopark, viloyat hokimligi",
+     "q": 0,
+     "metric": {
+      "v": "4×",
+      "l": "yiliga kengash yigʻilishi"
+     }
+    }
+   ]
+  }
+ ],
+ "kpi": [
+  {
+   "label": "Startap jamoalari",
+   "now": "12",
+   "y2027": "40",
+   "y2028": "80"
+  },
+  {
+   "label": "Jalb etilgan yoshlar (yillik)",
+   "now": "50+",
+   "y2027": "1 000",
+   "y2028": "2 500"
+  },
+  {
+   "label": "Mentorlar",
+   "now": "2",
+   "y2027": "30",
+   "y2028": "50"
+  },
+  {
+   "label": "Hamkor korxonalar (shartnoma asosida)",
+   "now": "≈5",
+   "y2027": "30",
+   "y2028": "60"
+  },
+  {
+   "label": "Ishlab chiqarishga joriy etilgan prototiplar",
+   "now": "2",
+   "y2027": "10",
+   "y2028": "25"
+  },
+  {
+   "label": "Intellektual mulk obʼyektlari uchun arizalar",
+   "now": "—",
+   "y2027": "15",
+   "y2028": "40"
+  },
+  {
+   "label": "Xususiy investitsiya olgan startaplar",
+   "now": "—",
+   "y2027": "8",
+   "y2028": "20"
+  },
+  {
+   "label": "Xalqaro sertifikat olgan yoshlar",
+   "now": "—",
+   "y2027": "300",
+   "y2028": "800"
+  },
+  {
+   "label": "Raqamlashtirilgan kichik biznes subʼyektlari",
+   "now": "—",
+   "y2027": "200",
+   "y2028": "500"
+  },
+  {
+   "label": "Qamrab olingan tumanlar (Mobil FabLab)",
+   "now": "1",
+   "y2027": "6",
+   "y2028": "barcha tumanlar"
+  }
+ ]
+}
